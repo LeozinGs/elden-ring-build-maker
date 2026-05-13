@@ -22,6 +22,7 @@ const Header = ({ attributes }) => {
             display: "flex",
             flexDirection: "column",
             justifyContent: "space-between",
+            padding: ".7rem",
           }}
         >
           <input

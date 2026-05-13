@@ -1,0 +1,1883 @@
+[
+  {
+    "id": 0,
+    "name": "Hefty Fire Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_fire_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict severe fire damage",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A goodly amount of materials is sealed inside. Throw at enemies to inflict severe fire damage.",
+    "dlc": 1
+  },
+  {
+    "id": 1,
+    "name": "Hefty Rock Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_rock_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict heavy damage",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. Filled to the brim with crushed rocksnothing clever about it. Throw at enemies to inflict heavy damage.",
+    "dlc": 1
+  },
+  {
+    "id": 2,
+    "name": "Hefty Lightning Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_lightning_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict severe lightning damage",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A goodly amount of materials is sealed inside. Throw at enemies to inflict severe lightning damage.",
+    "dlc": 1
+  },
+  {
+    "id": 3,
+    "name": "Hefty Fetid Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_fetid_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to cause a large buildup of deadly poison",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A heaping mass of effluents is sealed inside. As the mixture ferments, toxins are produced alongside a putrid stench that seeps out once ripe. Throw at enemies to cause a large buildup of deadly poison. Beware though; those who carry these pots will slowly accumulate poison in their own bodies. Push someone in a privy; expect to get dung on your hands.",
+    "dlc": 1
+  },
+  {
+    "id": 4,
+    "name": "Hefty Fly Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_fly_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to release a large swarm of bloodflies",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A heaping mass of effluents is sealed inside. Throw at enemies to set a large swarm of bloodflies upon them. The vile swarm deals damage and greatly builds up onset of blood loss. The cacophony of their wings assails the sanity of berserkers. The maggots found in waste feed on blood and turn into vicious flies that are pitiably short-lived.",
+    "dlc": 1
+  },
+  {
+    "id": 5,
+    "name": "Hefty Freezing Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_freezing_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to cause a large buildup of frost",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A goodly amount of materials is sealed inside. Throw at enemies to cause a large buildup of frost.",
+    "dlc": 1
+  },
+  {
+    "id": 6,
+    "name": "Hefty Poison Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_poison_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to cause a large buildup of poison",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A goodly amount of materials is sealed inside. Throw at enemies to cause a large buildup of poison.",
+    "dlc": 1
+  },
+  {
+    "id": 7,
+    "name": "Hefty Oil Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_oil_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to soak them in a heavy coat of oil",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A goodly amount of materials is sealed inside.Throw at enemies to soak them in a heavy coat of oil, making them acutely susceptible to fire damage.",
+    "dlc": 1
+  },
+  {
+    "id": 8,
+    "name": "Hefty Volcano Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_volcano_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Creates heat cloud, causing continuous heavy fire damage",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A goodly amount of materials is sealed inside. Throw at enemies to disperse a searing cloud of heat, dealing continuous heavy damage to those caught inside for a short duration.",
+    "dlc": 1
+  },
+  {
+    "id": 9,
+    "name": "Hefty Frenzied Flame Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_frenzied_flame_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to cause a large buildup of madness",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A goodly amount of materials is sealed inside. Throw at enemies to cause a large buildup of madness. The flame of frenzy burns the eyes, but tranquility follows in its wake. May this pot bring salvation to those it strikes.",
+    "dlc": 1
+  },
+  {
+    "id": 10,
+    "name": "Hefty Rancor Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_rancor_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw to spawn a throng of vengeful spirits.",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. Enchanted by the ancient death hex. Consumes FP. Throw at enemies to spawn a throng of vengeful spirits that chase down foes. In times of old, the dead were burned with ghostflame, and from those cinders arose vengeful spirits.",
+    "dlc": 1
+  },
+  {
+    "id": 11,
+    "name": "Hefty Magic Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_magic_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw to inflict severe magic damage",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A goodly amount of materials is sealed inside. Throw at enemies to inflict severe magic damage.",
+    "dlc": 1
+  },
+  {
+    "id": 12,
+    "name": "Hefty Rot Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_rot_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to cause a large buildup of scarlet rot",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A goodly amount of materials is sealed inside. Throw at enemies to cause a large buildup of scarlet rot. Rot is one of the divine elements of the outer gods, and eats away at life like a vicious plague.",
+    "dlc": 1
+  },
+  {
+    "id": 13,
+    "name": "Hefty Furnace Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_furnace_pot_1_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to create a whirlwind of flame",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. Imbued with a hex of the furnace. Throw at an enemy to create a whirlwind of flame. The furnace's flame burns away both body and soul. When impurity is thus expunged, one calls it cleansing.",
+    "dlc": 1
+  },
+  {
+    "id": 14,
+    "name": "Hefty Red Lightning Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hefty_red_lightning_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Inflict heavy lightning damage that links to nearby enemies",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a capacious cracked pot. A goodly amount of materials is sealed inside. Throw at an enemy to inflict heavy lightning damage that links to surrounding enemies. The ancient dragons who betrayed their lord to side with a tyrant were known for wielding branching red lightning.",
+    "dlc": 1
+  },
+  {
+    "id": 15,
+    "name": "Red Lightning Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/red_lightning_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Inflict lightning damage that links to nearby enemies",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a ritual pot. A cocktail of materials is sealed inside. Throw at an enemy to inflict lightning damage that links to surrounding enemies. The ancient dragons who betrayed their lord to side with a tyrant were known for wielding branching red lightning.",
+    "dlc": 1
+  },
+  {
+    "id": 16,
+    "name": "Frenzied Flame Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/frenzied_flame_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to cause buildup of madness",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of materials is sealed inside. Throw at enemies to cause buildup of madness. The flame of frenzy burns the eyes, but tranquility follows in its wake. May this pot bring salvation to those it strikes.",
+    "dlc": 1
+  },
+  {
+    "id": 17,
+    "name": "Eternal Sleep Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/eternal_sleep_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw to cause buildup of eternal sleep.",
+    "FP cost": 20,
+    "description": "Craftable item prepared using a ritual pot. Enchanted by the incantations of St. Trina. Consumes FP. Throw at enemies to cause buildup of eternal sleep. The weak are powerless to resist this velvety sleep, and will never be roused again.",
+    "dlc": 1
+  },
+  {
+    "id": 18,
+    "name": "Roped Frenzied Flame Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/roped_frenzied_flame_pot_throwing_pot_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw behind to cause buildup of madness",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of materials is sealed inside, and a short rope that aids throwing has been secured around the pot. Throw at rearward enemies to cause buildup of madness. The flame of frenzy burns the eyes, but tranquility follows in its wake. May this pot bring salvation to those it strikes.",
+    "dlc": 1
+  },
+  {
+    "id": 19,
+    "name": "Spirit Raisin",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/spirit_raisin_consumable_sote_wiki_guide200px.png",
+    "effect": "Spectral steed pushes back enemies when breaking into gallop",
+    "FP cost": 0,
+    "description": "Preparation of dried Rada fruit. Craftable item. Feed to Torrent while riding to enable the spectral steed to push back enemies when breaking into a gallop. The effect ends after a short time. A bitter medicine traditionally claimed to enhance one's spirituality, but Torrent seems to have a taste for it.",
+    "dlc": 1
+  },
+  {
+    "id": 20,
+    "name": "Blessing of Marika",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/blessing_of_marika_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Completely restores HP and heals all ailments",
+    "FP cost": 0,
+    "description": "A special physick blessed by Marika, the queen of the Erdtree. Completely restores HP and heals all ailments. Marika once created several of these physicks for Messmer's sake. But never again.",
+    "dlc": 1
+  },
+  {
+    "id": 21,
+    "name": "Lulling Branch",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lulling_branch_consumable_sote_wiki_guide200px.png",
+    "effect": "Slowly builds up sleep while gradually restoring FP",
+    "FP cost": 0,
+    "description": "Tree branch blessed with a velvety purple incantation. Craftable item. Pierce oneself, causing a gentle buildup of sleep. FP gradually recovers during this time. When this sleep reaches the threshold of causing temporary fogginess, no FP loss is incurred. In the midst of drowsiness, there is the will to awaken. Feelings that rise from the depths of one's heart.",
+    "dlc": 1
+  },
+  {
+    "id": 22,
+    "name": "Dragon Communion Flesh",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_communion_flesh_consumables_sote_wiki_guide200px.png",
+    "effect": "Boosts vigor, stamina, strength, and dexterity at the cost of gradual HP loss",
+    "FP cost": 0,
+    "description": "A lump of animal flesh with a heat that never cools. Craftable item. Boosts vigor, stamina, strength, and dexterity at the cost of gradual HP loss. An imitation of dragonscale flesh created by human hands, used to sate the hunger of drake warriorsif only briefly.",
+    "dlc": 1
+  },
+  {
+    "id": 23,
+    "name": "Dragonscale Flesh",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonscale_flesh_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Boosts vigor, stamina, strength, and dexterity at the cost of gradual HP loss",
+    "FP cost": 0,
+    "description": "A lump of hot flesh carved from beneath the inverted scales said to grow on aged dragons. When ingested as-is, boosts vigor, stamina, strength, and dexterity at the cost of gradual HP loss. To the drake warriors, there is no more intoxicating liquor than the heat of dragons.",
+    "dlc": 1
+  },
+  {
+    "id": 24,
+    "name": "Fingerprint Nostrum",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fingerprint_nostrum_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Boosts mind, intelligence, faith, and arcane at cost of gradual HP loss",
+    "FP cost": 0,
+    "description": "Bolus engraved with whorl-like lines. Craftable item. Boosts mind, intelligence, faith, and arcane at the cost of gradual HP loss. A secret medicine of those who attempt to turn their human bodies into fingers. Ingesting causes something to wriggle within.",
+    "dlc": 1
+  },
+  {
+    "id": 25,
+    "name": "Spellproof Pickled Liver",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/spellproof_pickled_liver_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Temporarily grants large boost to magic damage negation",
+    "FP cost": 0,
+    "description": "Animal liver pickled in a blue medicinal solution. Craftable item. Temporarily grants large boost to magic damage negation, greatly improving damage mitigation against attacks imbued with magic. The effects of the forager brood's pickled delights are enhanced by the fermentation, or rotting, of the ingredients. Though this results in a pungent odor, some come to find the aroma irresistible.",
+    "dlc": 1
+  },
+  {
+    "id": 26,
+    "name": "Fireproof Pickled Liver",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fireproof_pickled_liver_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Temporarily grants large boost to fire damage negation",
+    "FP cost": 0,
+    "description": "Animal liver pickled in a red medicinal solution. Craftable item. Temporarily grants large boost to fire damage negation, greatly improving damage mitigation against attacks imbued with fire. The effects of the forager brood's pickled delights are enhanced by the fermentation, or rotting, of the ingredients. Though this results in a pungent odor, some come to find the aroma irresistible.",
+    "dlc": 1
+  },
+  {
+    "id": 27,
+    "name": "Lightningproof Pickled Liver",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lightningproof_pickled_liver_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Temporarily grants large boost to lightning damage negation",
+    "FP cost": 0,
+    "description": "Animal liver pickled in a yellow medicinal solution. Craftable item. Temporarily grants large boost to lightning damage negation, greatly improving damage mitigation against attacks imbued with lightning. The effects of the forager brood's pickled delights are enhanced by the fermentation, or rotting, of the ingredients. Though this results in a pungent odor, some come to find the aroma irresistible.",
+    "dlc": 1
+  },
+  {
+    "id": 28,
+    "name": "Holyproof Pickled Liver",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/holyproof_pickled_liver_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Temporarily grants large boost to holy damage negation",
+    "FP cost": 0,
+    "description": "Animal liver pickled in a gold medicinal solution. Craftable item. Temporarily grants large boost to holy damage negation, greatly improving damage mitigation against attacks imbued with holiness. The effects of the forager brood's pickled delights are enhanced by the fermentation, or rotting, of the ingredients. Though this results in a pungent odor, some come to find the aroma irresistible.",
+    "dlc": 1
+  },
+  {
+    "id": 29,
+    "name": "Opaline Pickled Liver",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/opaline_pickled_liver_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Temporarily grants large boost to non-physical damage negation",
+    "FP cost": 0,
+    "description": "Animal liver pickled in an opaline medicinal solution. Craftable item. Temporarily grants large boost to non-physical damage negation, greatly improving mitigation of damage imbued with non-physical attributes. The effects of the forager brood's pickled delights are enhanced by the fermentation, or rotting, of the ingredients. Though this results in a pungent odor, some come to find the aroma irresistible.",
+    "dlc": 1
+  },
+  {
+    "id": 30,
+    "name": "Well-Pickled Turtle Neck",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/well-pickled_turtle_neck_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Temporarily grants large boost to stamina recovery speed",
+    "FP cost": 0,
+    "description": "Turtle neck meat that has been thoroughly pickled in a bitter solution. Temporarily grants large boost to stamina recovery speed. The effects of the forager brood's pickled delights are enhanced by the fermentation, or rotting, of the ingredients. Though this results in a pungent odor, some come to find the aroma irresistible.",
+    "dlc": 1
+  },
+  {
+    "id": 31,
+    "name": "Scorpion Stew",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/scorpion_stew_consumaable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Boosts physical damage negation temporarily and gradually restores HP",
+    "FP cost": 0,
+    "description": "Scorpion simmered in a black soup. Traditional meal of the hornsent. Boosts physical damage negation temporarily and gradually restores HP. Once made with love by a certain elderly woman for the family table. Having long gone cold, this soup gives off a rank, sour smell.",
+    "dlc": 1
+  },
+  {
+    "id": 32,
+    "name": "Gourmet Scorpion Stew",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/gourmet_scorpion_stew_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Boosts physical damage negation temporarily and gradually restores a great amount of HP",
+    "FP cost": 0,
+    "description": "Scorpion simmered in a black soup. An exquisite dish chock-full of mouth-watering scorpion claws. Boosts physical damage negation temporarily and gradually restores a great amount of HP. The thoughts and feelings of the cook melt and blend into the stew, but those who can distinguish the taste of love are few and far between. \"Partake, partake, until thou art sated.",
+    "dlc": 1
+  },
+  {
+    "id": 33,
+    "name": "Scorpion Stew (2)",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/scorpion_stew_consumaable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Boosts physical damage negation temporarily and gradually restores HP",
+    "FP cost": 0,
+    "description": "Scorpion simmered in a black soup. Traditional meal of the hornsent. Boosts physical damage negation temporarily and gradually restores HP. Having long gone cold, this soup gives off a rank, sour smell.",
+    "dlc": 1
+  },
+  {
+    "id": 34,
+    "name": "Gourmet Scorpion Stew (2)",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/gourmet_scorpion_stew_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Boosts physical damage negation temporarily and gradually restores a great amount of HP",
+    "FP cost": 0,
+    "description": "Scorpion simmered in a black soup. An exquisite dish chock-full of mouth-watering scorpion claws. Boosts physical damage negation temporarily and gradually restores a great amount of HP. The thoughts and feelings of the cook melt and blend into the stew, but those who can distinguish the taste of love are few and far between.",
+    "dlc": 1
+  },
+  {
+    "id": 35,
+    "name": "Sacred Bloody Flesh",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/sacred_bloody_flesh_consumaable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Boosts physical attack power and arcane once. Attack power boosted further when blood loss occurs.",
+    "FP cost": 0,
+    "description": "Raw meat soaked with blood. A delicacy of the bloodfiends. Temporarily boosts physical attack power and arcane. When blood loss occurs nearby, further boosts attack power. The blood is said to have fallen from the Formless Mother's wound. Never will it dry, never will it rot.",
+    "dlc": 1
+  },
+  {
+    "id": 36,
+    "name": "Silver Horn Tender",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/silver_horn_tender_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Temporarily boosts item discovery",
+    "FP cost": 0,
+    "description": "Old currency used by hornsent made by coating spiral horns with silver. Temporarily boosts item discovery. Can also be sold for a high price. These trinkets were once symbolic of society's upper echelons.",
+    "dlc": 1
+  },
+  {
+    "id": 37,
+    "name": "Golden Horn Tender",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_horn_tender_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Boosts rune acquisition for a time",
+    "FP cost": 0,
+    "description": "Old currency used by hornsent made by coating spiral horns with gold. Boosts the amount of runes obtained from defeating enemies for a certain duration. Can also be sold for a high price. Once bestowed upon inquisitors as an honor.",
+    "dlc": 1
+  },
+  {
+    "id": 38,
+    "name": "Messmerfire Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/messmerfire_grease_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting heavy fire damage",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of incendiary materials. Craftable item. Coats armament, adding heavy fire damage to attacks. The effect lasts only for a short time. Fire was a symbol of the crusade, and even Messmer's rank-and-file soldiers would wield it.",
+    "dlc": 1
+  },
+  {
+    "id": 39,
+    "name": "Dragonbolt Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonbolt_grease_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting heavy lightning damage",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of fulminating materials. Craftable item. Coats armament, adding heavy lightning damage to attacks. The effect lasts only for a short time. Said to have been a favored tool of the dragon-cult knights who once served the prince of gold.",
+    "dlc": 1
+  },
+  {
+    "id": 40,
+    "name": "Royal Magic Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/royal_magic_grease_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting heavy magic damage",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of magically resonant materials. Craftable item. Coats armament, adding heavy magic damage to attacks. The effect lasts only for a short time. Believed to have once been bestowed upon low-ranking Carian knights in lieu of the fellowship's characteristic swords.",
+    "dlc": 1
+  },
+  {
+    "id": 41,
+    "name": "Golden Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_grease_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting heavy holy damage",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of holy resonant materials. Craftable item. Coats armament, adding heavy holy damage to attacks. The effect lasts only for a short time. Enchanted with an ancient Erdtree incantation. Such ministrations are all but a lost art in the realm of shadow.",
+    "dlc": 1
+  },
+  {
+    "id": 42,
+    "name": "Eternal Sleep Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/eternal_sleep_grease_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting eternal sleep",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of deep-purple materials. Craftable item. Coats armament, inflicting eternal sleep. The effect lasts only for a short time. The weak are powerless to resist this velvety sleep, and will never be roused again.",
+    "dlc": 1
+  },
+  {
+    "id": 43,
+    "name": "Dragon Communion Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_communion_grease_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Coats armament, granting potent anti-dragon effect",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a sharp gravel-stone mixture. Craftable item. Coats armament, granting a potent anti-dragon effect. The effect lasts only for a short time. A tool of the old Dragon Communion warriors, who were the agents of the ancient dragons' hatred for their lowborn descendants.",
+    "dlc": 1
+  },
+  {
+    "id": 44,
+    "name": "Drawstring Messmerfire Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_messmerfire_grease_drawstring_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting heavy fire damage",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of incendiary materials. Craftable item. A short string is attached to this lump. Quickly coats armament, adding heavy fire damage to attacks, but with a brief effect, owing to its small size. Fire was a symbol of the crusade, and even Messmer's rank-and-file soldiers would wield it.",
+    "dlc": 1
+  },
+  {
+    "id": 45,
+    "name": "Drawstring Dragonbolt Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_dragonbolt_grease_drawstring_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting heavy lightning damage",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of fulminating materials. Craftable item. A short string is attached to this lump. Quickly coats armament, adding heavy lightning damage to attacks, but with a brief effect, owing to its small size. Said to have been a favored tool of the dragon-cult knights who once served the prince of gold.",
+    "dlc": 1
+  },
+  {
+    "id": 46,
+    "name": "Drawstring Royal Magic Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_royal_magic_grease_drawstring_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting heavy magic damage",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of magically resonant materials. Craftable item. A short string is attached to this lump. Quickly coats armament, adding heavy magic damage to attacks, but with a brief effect, owing to its small size. Believed to have once been bestowed upon low-ranking Carian knights in lieu of the fellowship's characteristic swords.",
+    "dlc": 1
+  },
+  {
+    "id": 47,
+    "name": "Drawstring Golden Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_golden_grease_drawstring_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting heavy holy damage",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of holy resonant materials. Craftable item. A short string is attached to this lump. Quickly coats armament, adding heavy holy damage to attacks, but with a brief effect, owing to its small size. Enchanted with an ancient Erdtree incantation. Such ministrations are all but a lost art in the realm of shadow.",
+    "dlc": 1
+  },
+  {
+    "id": 48,
+    "name": "Drawstring Eternal Sleep Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_eternal_sleep_grease_drawstring_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting eternal sleep",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of deep-purple materials. Craftable item. A short string is attached to this lump. Quickly coats armament, inflicting eternal sleep, but with a brief effect, owing to its small size. The weak are powerless to resist this velvety sleep, and will never be roused again.",
+    "dlc": 1
+  },
+  {
+    "id": 49,
+    "name": "Festive Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/festive_grease_grease_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Coats armament, granting wielder trace amount of runes on landing attacks",
+    "FP cost": 0,
+    "description": "Solidified knotgrease made from a mixture of bone shards. Craftable item. Coats armament, imparting a festive incantation that grants the wielder a scant few runes on landing attacks. The effect lasts only for a short time. The delightful festival is an old tradition; one old enough for the Erdtree to tacitly tolerate its endurance.",
+    "dlc": 1
+  },
+  {
+    "id": 50,
+    "name": "Innard Meat",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/innard_meat_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict damage",
+    "FP cost": 0,
+    "description": "Scraps of flesh for filling great jars. Rancorous spirits cling to the pinkish-red, ******ing meat. Throw at enemies to inflict damage. This is what becomes of the condemned, who get sliced up and stuffed into jars to become saints instead.",
+    "dlc": 1
+  },
+  {
+    "id": 51,
+    "name": "Dragon Communion Harpoon",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_communion_harpoon_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Throw to inflict damage with anti-dragon effect",
+    "FP cost": 0,
+    "description": "Harpoon bristling with sharp gravel stones. Craftable item. Throw at enemies to inflict heavy damage. Has an anti-dragon effect. A tool of the old Dragon Communion warriors, who were the agents of the ancient dragons' hatred for their lowborn descendants.",
+    "dlc": 1
+  },
+  {
+    "id": 52,
+    "name": "Polter Stone",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/polter_stone_consumable_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Makes a noise imitative of human presence",
+    "FP cost": 0,
+    "description": "Contrivance of the grave keepers made from spiritgrave stone. Craftable item. Creates noises imitative of human presence where it lands when thrown. Said to have been used by the solitary grave keepers to distract themselves from their longing for company.",
+    "dlc": 1
+  },
+  {
+    "id": 53,
+    "name": "Rock Heart",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rock_heart_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Turns human frame into ancient dragon and boosts Dragon Communion incantations by 20% for 60 seconds.",
+    "FP cost": 0,
+    "description": "Heart consumed in the ancient, original form of Dragon Communion. Use while disrobed to turn one's human flesh into an ancient dragon. The change cannot be undone except by death. Using this heart while already transformed temporarily boosts Dragon Communion incantations. The last thing the partaker saw with human eyes was a sunset, its colors faded and tarnisheda remote thing from eternity.",
+    "dlc": 1
+  },
+  {
+    "id": 54,
+    "name": "Priestess Heart",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/priestess_heart_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Turns human frame into ancient dragon and boosts Dragon Cult incantations",
+    "FP cost": 0,
+    "description": "The stone heart of a Dragon Communion priestess. Use while disrobed to turn one's human flesh into an ancient dragon. The change cannot be undone except by death. Using this heart while already transformed temporarily boosts incantations of the capital's ancient dragon cult. The priestess was once an ancient dragon herself, but sacrificed that form for feeble flesh to aid in the destruction of Bayle the Dread.",
+    "dlc": 1
+  },
+  {
+    "id": 55,
+    "name": "Lamenter's Mask",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lamenters_mask_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Transforms wearer into a lamenter and causes head to swell in size",
+    "FP cost": 0,
+    "description": "A stone mask twisted into an expression of rapturous grief. Use while disrobed to transform into a lamenter. The change cannot be undone except by death. Using this mask while already transformed causes the head to swell in size. This transformation tallies with the state of a denizen of paradise, but the people of the tower denied and hid it from the world. In their foolishness, they viewed true bliss with deep fear.",
+    "dlc": 1
+  },
+  {
+    "id": 56,
+    "name": "Ancient Dragon's Blessing",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ancient_dragons_blessing_1_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Uses FP to increase all damage negation",
+    "FP cost": -15,
+    "description": "Favor bestowed by the Dragon Communion priestess in the name of the dragon lord Placidusax. Consume FP to increase all forms of damage negation (including physical). This also increases damage negation while guarding as an additional effect. Each night, the priestess offers her own sleep to her lord, and in turn receives the power of His favor.",
+    "dlc": 1
+  },
+  {
+    "id": 57,
+    "name": "Iris of Grace",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/iris_of_grace_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Place on the eye of another to grant the light of grace as a fleeing blessing",
+    "FP cost": 0,
+    "description": "An iris blessed with an incantation of the Erdtree. Place on the eye of another to grant them the light of grace as a fleeing blessing. Can also be used to receive the blessing of an equipped Great Rune. In the realm of shadow, this artifice was employed by the priests of the Erdtree to quell the fears of their flock to magnificent effect.",
+    "dlc": 1
+  },
+  {
+    "id": 58,
+    "name": "Iris of Occultation",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/iris_of_occultation_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Place on the eye of another to deny light in all its forms",
+    "FP cost": 0,
+    "description": "An iris that is as dark as night. Place on the eye of another to deny them light in all its forms. Can also be used to receive the blessing of an equipped Great Rune, at the cost of all runes currently held. In the realm of shadow, this artifice was employed by the priests of the Erdtree to intensify the fears of their flock to magnificent effect.",
+    "dlc": 1
+  },
+  {
+    "id": 59,
+    "name": "Thiollier's Concoction",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/thiolliers_concoction_elden_ring_sote_wiki_guide200px.png",
+    "effect": "Causes immediate death if imbibed by an ordinary human",
+    "FP cost": 0,
+    "description": "An ebony-black concoction mixed by Thiollier. A condensed, somniferous elixir, purported to be capable of putting even an ancient dragon to sleep. For an ordinary mortal, a single sip would assuredly result in swift and certain death. Thiollier thought of St. Trina's sleep when he created this, but the ebony sleep he concocted had not the sweetness of nectar nor the gentleness of rest's embrace.",
+    "dlc": 1
+  },
+  {
+    "id": 60,
+    "name": "Flask of Crimson Tears",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/flask_of_crimson_tears_elden_ring_wiki_guide_200px.png",
+    "effect": "Restores HP",
+    "FP cost": 0,
+    "description": "A sacred flask modelled after a golden holy chalice that was once graced by a tear of life. Filled with crimson tears, this flask restores HP with use. Rest at a site of grace to replenish. The one washed up on the gravesite was sure to die, until this flaskoffered its gift of rejuvenation. To seek the Elden Ring. Flask Add charge to flask",
+    "dlc": 0
+  },
+  {
+    "id": 61,
+    "name": "Flask of Cerulean Tears",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/flask_of_cerulean_tears_elden_ring_wiki_guide_200px.png",
+    "effect": "Restores FP",
+    "FP cost": 0,
+    "description": "A sacred flask modelled after a golden holy chalice that was once graced by a tear of life. Filled with cerulean tears, this flask restores FP with use. Rest at a site of grace to replenish. The one washed up on the gravesite was sure to die, until this flask offered its gift of rejuvenation. To seek the Elden Ring.",
+    "dlc": 0
+  },
+  {
+    "id": 62,
+    "name": "Sleep Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/sleep_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw to cause buildup of Sleep",
+    "FP cost": 9,
+    "description": "Craftable item prepared using a cracked pot. Enchanted by the incantations of St. Trina. Consumes FP. Throw enemies to cause buildup of sleep. Like a lullaby, or a quagmire, its light-purple haze irresistibly draws its victims down into sleep. Sweet dreams.",
+    "dlc": 0
+  },
+  {
+    "id": 63,
+    "name": "Dappled White Cured Meat",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dappled_white_cured_meat_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts immunity, robustness, and focus",
+    "FP cost": 0,
+    "description": "A white sliced meat, dried out after pickling in a dappled medicinal solution.Craftable item. Temporarily boosts immunity, robustness, and focus. Lasts longer than traditional cured meat, but with reduced effectiveness.",
+    "dlc": 0
+  },
+  {
+    "id": 64,
+    "name": "Holy Water Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/holy_water_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw at enemies to inflict Holy Damage",
+    "FP cost": 5,
+    "description": "Craftable item prepared using a cracked pot. Enchanted by incantations of the Golden Order. Consumes FP. Throw at enemy to inflict holy damage. Highly effective against Those Who Live in Death, even preventing them from rising again.The Golden Order has no mercy for those who trespass beyond life's bounds.",
+    "dlc": 0
+  },
+  {
+    "id": 65,
+    "name": "Scriptstone",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/scriptstone_elden_ring_wiki_guide_200px.png",
+    "effect": "Reveals more messages from other worlds",
+    "FP cost": 2,
+    "description": "Ruin Fragment with a cipher inscription. Craftable item. Uses FP to reveal more messages from other worlds. Words are gregarious things, drawn to one another much as people are.",
+    "dlc": 0
+  },
+  {
+    "id": 66,
+    "name": "Rainbow Stone",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rainbow_stone_elden_ring_wiki_guide_200px.png",
+    "effect": "Shines with colored light when placed, serving as a guide",
+    "FP cost": 0,
+    "description": "Ruin Fragment that has undergone some simple processing. Craftable item. Stones such as these shine with the colors of the rainbow, making them useful markers when placed on the ground. Can also be dropped to gauge the distance of a fall. The higher the pitch of the sound, the higher the likelihood of the fall being fatal. Once used to entertain children on the fringes of the Lands Between.",
+    "dlc": 0
+  },
+  {
+    "id": 67,
+    "name": "Rowa Raisin",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rowa_raisin_elden_ring_wiki_guide_200px.png",
+    "effect": "On horseback, feed to Torrent to restore HP",
+    "FP cost": 0,
+    "description": "Preparation of dried Rowa fruit. Craftable item. Feed to Torrent, the spectral steed, while riding to restore his HP. Humans are unable to digest Rowa fruit, but Torrent seems to have a taste for it.",
+    "dlc": 0
+  },
+  {
+    "id": 68,
+    "name": "Roped Fire Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/roped_fire_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw behind to inflict Fire Damage.",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of incendiary materials is sealed inside, and a short rope that aids throwing has been secured around the pot. Throw at rearward enemies to inflict fire damage.",
+    "dlc": 0
+  },
+  {
+    "id": 69,
+    "name": "Glowstone",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/glowstone_elden_ring_wiki_guide_200px.png",
+    "effect": "Emits a faint light from the location it is placed",
+    "FP cost": 0,
+    "description": "Polished Ruin Fragment that shines brighter than Rainbow Stone. Craftable item. Emits light from the location it is placed, illuminating surroundings. However, the effect is short-lived, and it lacks the diverse colors of rainbow stones. May serve some benefit in dark places, or at night.",
+    "dlc": 0
+  },
+  {
+    "id": 70,
+    "name": "Flask of Wondrous Physick",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/flask_of_wondrous_physick_elden_ring_wiki_guide_200px.png",
+    "effect": "Bestows various special effects",
+    "FP cost": 0,
+    "description": "A relic of the physick chemists, priests of the Erdtree. Harnesses the powers of crystal tears, which only form after the passage of many moons. Various special effects are bestowed upon the drinker, dependent on the specific mixture of crystal tears. Rest at a site of grace to replenish. Basins are placed at the feet of Minor Erdtrees throughout the Lands Between in order to collect their crystallized tears.",
+    "dlc": 0
+  },
+  {
+    "id": 71,
+    "name": "Pauper's Rune",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/paupers_rune_consumables_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain a few runes",
+    "FP cost": 0,
+    "description": "Grace that dwells within the inhabitants of The Lands Between; the lingering residue of gold. Use to gain a few runes. For all that they may be feeble things, these runes will act as nourishment for the development of any Tarnished. Provided a Finger Maiden can be found...",
+    "dlc": 0
+  },
+  {
+    "id": 72,
+    "name": "Immunizing Cured Meat",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/immunizing_cured_meat_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts Immunity",
+    "FP cost": 0,
+    "description": "Cured strip of meat, dried out after pickling in a green medicinal solution. Craftable item. Temporarily boosts immunity. Higher immunity helps to mitigate the buildup of various poisons and scarlet rot.",
+    "dlc": 0
+  },
+  {
+    "id": 73,
+    "name": "Heavy Meteorite Fragment",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/heavy_meteorite_fragment_tools_consumables_elden_ring_wiki_guide_200px.png",
+    "effect": "Consumes FP. Throw at the ground to create a gravitational shockwave.",
+    "FP cost": 0,
+    "description": "Shard of rock found in the wake of a meteorite strike. It is imbued with a particularly weighty magic. Consumes FP. Throw at the ground to create a gravitational shockwave. The desperate ones who scavenge for these shards dub themselves \"starcallers\".",
+    "dlc": 0
+  },
+  {
+    "id": 74,
+    "name": "Pickled Turtle Neck",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/pickled_turtle_neck_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts Stamina recovery",
+    "FP cost": 0,
+    "description": "Turtle neck meat, pickled in a bitter medicinal solution. Craftable item. Temporarily boosts stamina recovery. The nutrients churn through the body, practically boiling out endless power.",
+    "dlc": 0
+  },
+  {
+    "id": 75,
+    "name": "Drawstring Fire Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_fire_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Quickly coats weapon, inflicting fire damage",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of incendiary materials. Craftable item.A short string is attached to this lump. Quickly coats armament, inflicting fire damage, but with a brief effect, owing to its small size.",
+    "dlc": 0
+  },
+  {
+    "id": 76,
+    "name": "Fireproof Dried Liver",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fireproof_dried_liver_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts fire damage negation",
+    "FP cost": 0,
+    "description": "Cured animal liver, dried out after pickling in a red medicinal solution. Craftable item. Temporarily boosts fire damage negation, improving damage mitigation against attacks imbued with fire.",
+    "dlc": 0
+  },
+  {
+    "id": 77,
+    "name": "Fire Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict Fire Damage",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of incendiary materials is sealed inside. Throw at enemies to inflict fire damage.",
+    "dlc": 0
+  },
+  {
+    "id": 78,
+    "name": "Fire Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Coats weapon, inflicting fire damage",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of incendiary materials. Craftable item. Coats armament, adding fire damage to attacks. The effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 79,
+    "name": "Fire Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fire_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Coats weapon, inflicting fire damage",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of incendiary materials. Craftable item. Coats armament, adding fire damage to attacks. The effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 80,
+    "name": "Bloodboil Aromatic",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodboil_aromatic_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to enter a temporary state of fervor.",
+    "FP cost": 21,
+    "description": "Forbidden art of depraved perfumers. Craftable with a perfume bottle. Uses FP to enter a temporary state of fervor, raising maximum attack power and stamina while also increasing damage received. \"Even upon the battlefield, do you fear being wounded? Take a good look. Your limbs are frozen stiff.",
+    "dlc": 0
+  },
+  {
+    "id": 81,
+    "name": "Stanching Boluses",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/stanching_boluses_elden_ring_wiki_guide_200px.png",
+    "effect": "Alleviates impending blood loss.",
+    "FP cost": 0,
+    "description": "Red boluses made from cave moss. Craftable item. Alleviates impending blood loss. Blood loss escalates gradually, causing great damage once the threshold is reached. Take one of these in timely fashion to avoid such an event.",
+    "dlc": 0
+  },
+  {
+    "id": 82,
+    "name": "Gold-Pickled Fowl Foot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/gold-pickled_fowl_foot_elden_ring_wiki_guide_200px.png",
+    "effect": "Boosts rune acquisition for a time (30%)",
+    "FP cost": 0,
+    "description": "Four-toed foot of a fowl, pickled in a golden medicinal solution. Craftable item. Boosts the amount of runes obtained from defeating enemies for a certain duration. Since old times, the needy would scrape the meat clean even from a fowl's claw.",
+    "dlc": 0
+  },
+  {
+    "id": 83,
+    "name": "Dragon Heart",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragon_heart_elden_ring_wiki_guide_200px.png",
+    "effect": "Gain power of the dragon at the Dragon Communion altar.",
+    "FP cost": 0,
+    "description": "Dragon heart seized by a dragon tracker. Riddled with Gravel Stone, this grotesque organ continues to beat vivaciously. An offering used in the Dragon Communion. Consume a dragon's heart at the altar to make its power yours. While a terrible and savage-looking thing, the heart has a peculiar beauty to it.",
+    "dlc": 0
+  },
+  {
+    "id": 84,
+    "name": "Neutralizing Boluses",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/neutralizing_boluses_elden_ring_wiki_guide_200px.png",
+    "effect": "Alleviates poison buildup and cures poison",
+    "FP cost": 0,
+    "description": "Green boluses made from cave moss. Craftable item. Alleviates poison buildup and cures poison ailment. Poison accumulates gradually, coming into effect once the threshold is reached. Poison ailment lowers HP in steady increments for a period.",
+    "dlc": 0
+  },
+  {
+    "id": 85,
+    "name": "Exalted Flesh",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/exalted_flesh_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts physical attack (30s)",
+    "FP cost": 0,
+    "description": "A lump of animal flesh pickled in a medicinal solution mixed with fiery spices. Craftable item. Temporarily boosts physical attack. Considered a delicacy in the badlands, this invigorating repast was for the exclusive benefit of those who they deem heroes.",
+    "dlc": 0
+  },
+  {
+    "id": 86,
+    "name": "Throwing Dagger",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/throwing_dagger_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict damage",
+    "FP cost": 0,
+    "description": "Short dagger for throwing. It has no handguard. The blade is polished, and its weight is expertly balanced. Throw at enemies to deal damage. This auxiliary weapon, used primarily to constrain an enemy's movements, can still be deadly in the right hands.",
+    "dlc": 0
+  },
+  {
+    "id": 87,
+    "name": "Stimulating Boluses",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/stimulating_boluses_elden_ring_wiki_guide_200px.png",
+    "effect": "Alleviates buildup of sleep.",
+    "FP cost": 0,
+    "description": "Light-purple boluses made from cave moss. Craftable item. Alleviates buildup of sleep. Sleep accumulates gradually, causing sudden fogginess and loss of FP once the threshold is reached, even if it does not force the afflicted into true slumber. Take one of these in a timely fashion to avoid such events.",
+    "dlc": 0
+  },
+  {
+    "id": 88,
+    "name": "Lands Between Rune",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lands_between_rune_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain many runes",
+    "FP cost": 0,
+    "description": "Grace said to have once dwelled in the eyes of the inhabitants of the Lands Between; the lingering residue of gold. Use to gain 3000 runes. No grace resides in the eyes of the Tarnished; if it ever did, it is now lost.",
+    "dlc": 0
+  },
+  {
+    "id": 89,
+    "name": "Golden Seed",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_seed_elden_ring_wiki_guide_200px.png",
+    "effect": "Increases Sacred Flask's number of uses",
+    "FP cost": 0,
+    "description": "A golden seed, found at the base of an illusory tree. Increases a Sacred Flask's number of uses.(Can be used after resting at a site of grace.) When the Elden Ring was shattered, these seeds flew from the Erdtree, scattering across the various lands, as if life itself knew that its end has come.",
+    "dlc": 0
+  },
+  {
+    "id": 90,
+    "name": "Bewitching Branch",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/bewitching_branch_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to charm pierced enemy",
+    "FP cost": 14,
+    "description": "Tree branch blessed with an incantation of unalloyed gold. Craftable item. Pierce a foe, using FP to turn them into a temporary ally. The Empyrean Miquella is loved by many people. Indeed, he has learned very well how to compel such affection.",
+    "dlc": 0
+  },
+  {
+    "id": 91,
+    "name": "Boiled Prawn",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/boiled_prawn_elden_ring_wiki_guide_200px.png",
+    "effect": "Boosts physical damage negation for a time",
+    "FP cost": 0,
+    "description": "Boiled prawn meat.A prime specimen of plump and moist meat.True connoisseurs know how to keep from over-salting. Boosts physical damage negation for a certain duration, The meat actually looks to have come from a crayfish. Not that it matters, it's delicious all the same.",
+    "dlc": 0
+  },
+  {
+    "id": 92,
+    "name": "Golden Rune [1]",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_rune_1_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain 200 runes",
+    "FP cost": 0,
+    "description": "Grace that dwells within the inhabitants of the Lands Between",
+    "dlc": "the lingering trace of gold. Use to gain 200 runes. Runes are nourishment for the development of any Tarnished. Provided a Finger Maiden can be found... West Sarcophagi West Liurnia of the Lakes North Sarcophagi North Liurnia of the Lakes North-East Sarcophagi northeast sarcophagi"
+  },
+  {
+    "id": 93,
+    "name": "Golden Rune [2]",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_rune_2_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain 400 runes",
+    "FP cost": 0,
+    "description": "Grace that dwells within the inhabitants of the Lands Between",
+    "dlc": "the lingering trace of gold. Use to gain 400 runes. Runes are nourishment for the development of any Tarnished. Provided a Finger Maiden can be found... North Sarcophagi West Sarcophagi West Liurnia of the Lakes North-East Sarcophagi North-East Liurnia of the Lakes"
+  },
+  {
+    "id": 94,
+    "name": "Golden Rune [3] 3",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_rune_3_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain 800 runes",
+    "FP cost": 0,
+    "description": "Grace that dwells within the inhabitants of the Lands Between; the lingering trace of gold. Use to gain 800 runes. Even now, runes are still imbued with the power of life itself. Do you see the Erdtree towering o'er? Northeastern Sarcophag Liurnia of the Lakes' northeastern sarcophagi. North Creek North Sarcophagi West Sarcophagi: West Liurnia of the Lakes",
+    "dlc": 0
+  },
+  {
+    "id": 95,
+    "name": "Baldachin's Blessing",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/baldachinns_blessing_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to temporarilty boost poise",
+    "FP cost": 10,
+    "description": "Favor bestowed by a deathbed companion. Protection of a hidden temple in the guise of a bedchamber. Uses FP to temporarily boost poise. The favor allows one to forget any aches and pains. In Death, there is only peace, for in Death, there can be no sensation.",
+    "dlc": 0
+  },
+  {
+    "id": 96,
+    "name": "Blood Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/blood_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting blood loss",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of blood-red materials. Craftable item. Coats armament, inflicting blood loss. The effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 97,
+    "name": "Fan Daggers",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fan_daggers_elden_ring_wiki_guide_200px.png",
+    "effect": "Thrown fanned-out knives at enemies to inflict damage",
+    "FP cost": 0,
+    "description": "A set of five throwing knives bundled together. A concealed weapon cherished by the raptor assassins. The thin knives fan out when thrown, dealing damage to the target. Each knife deals paltry damage, but the wide range makes it suitable for constraining enemies.",
+    "dlc": 0
+  },
+  {
+    "id": 98,
+    "name": "Frozen Raisin",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/frozen_raisin_elden_ring_wiki_guide_200px.png",
+    "effect": "On horseback, feed to Torrent to vastly restore HP",
+    "FP cost": 0,
+    "description": "Preparation of dried Rimed Rowa. Craftable item. Feed to Torrent, the spectral steed, while riding to vastly restore his HP. Torrent seems to enjoy the sensation of chewing this frozen, dried seed. vastly",
+    "dlc": 0
+  },
+  {
+    "id": 99,
+    "name": "Glass Shard",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/glass_sahrd_elden_ring_wiki_guide_200px.png",
+    "effect": "Shard of filthy glass. Worthless rubbish.",
+    "FP cost": 0,
+    "description": "Glass shard covered in dirt. Because it sparkles in the light, it might be mistaken for an object of value when seen from afar. It cannot produce light by itself. Essentially worthless.",
+    "dlc": 0
+  },
+  {
+    "id": 100,
+    "name": "Golden Rune [6]",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_rune_6_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain 2000 runes",
+    "FP cost": 0,
+    "description": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. Use to gain 2000 runes. Those born at the foot of the Erdtree are blessed. At least, that is the enduring belief of the people of the plateau. Minor Erdtree",
+    "dlc": 0
+  },
+  {
+    "id": 101,
+    "name": "Grace Mimic",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/grace_mimic_elden_ring_wiki_guide_200px.png",
+    "effect": "Light shows the path, but without order",
+    "FP cost": 0,
+    "description": "A fetish indicating the guidance of grace. Craftable item. Similar to grace, this fetish draws rays guiding the way, only without any sense of order. Useful as a last resort for those who have lost their way, or for use by those who believe that unrefined guidance will lead to truer encounters.",
+    "dlc": 0
+  },
+  {
+    "id": 102,
+    "name": "Roped Holy Water Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/roped_holy_water_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw behind to inflict Holy Damage",
+    "FP cost": 5,
+    "description": "Craftable item prepared using a cracked pot.Enchanted by incantations of the Golden Order, and a short rope that aids throwing has been secured around the pot. Consumes FP. Throw at rearward enemies to inflict holy damage. Highly effective against Thos Who Live in Death, even preventing them from rising again.The Golden Order has no mercy for those who trespass beyond life's bounds.",
+    "dlc": 0
+  },
+  {
+    "id": 103,
+    "name": "Bone Dart",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/bone_dart_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict damage",
+    "FP cost": 0,
+    "description": "Animal bone sharpened into a knife for throwing. Craftable item. Throw at enemies to inflict damage.",
+    "dlc": 0
+  },
+  {
+    "id": 104,
+    "name": "Gravity Stone Chunk",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/gravity_stone_chunk_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to cause a gravitational explosion",
+    "FP cost": 5,
+    "description": "Shard of rock found in the wake of a meteorite strike. It is imbued with a particularly weighty magic. Throw at enemies, using FP to cause a gravitational explosion. The desperate ones who scavenge for these shards dub themselves \"starcallers.",
+    "dlc": 0
+  },
+  {
+    "id": 105,
+    "name": "Gravity Stone Fan",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/gravity_stone_fan_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to emit fan-shaped gravitational shockwave",
+    "FP cost": 13,
+    "description": "Shard of rock found in the wake of a meteorite strike. It is imbued with a particularly weighty magic. Uses FP to emit gravitational shockwave. The desperate ones which scavenge for these shards dub themselves \"starcallers.",
+    "dlc": 0
+  },
+  {
+    "id": 106,
+    "name": "Invigorating Cured Meat",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/invigorating_cured_meat_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts Robustness",
+    "FP cost": 0,
+    "description": "Cured strip of meat, dried out after pickling in a red medicinal solution.Craftable item. Temporarily boosts robustness. Higher robustness helps to mitigate the buildup of frost and blood loss.",
+    "dlc": 0
+  },
+  {
+    "id": 107,
+    "name": "Kukri",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/kukri_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict damage and build up onset of blood loss",
+    "FP cost": 0,
+    "description": "A large knife used for throwing. Its curved blade is sharp enough to slice flesh cleanly. Throw at enemies to inflict damage and build up onset of blood loss. This heavy throwing weapon is unsuitable for swift attacks, but is able to inflict heavy damage.",
+    "dlc": 0
+  },
+  {
+    "id": 108,
+    "name": "Large Glintstone Scrap",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/large_glintstone_scrap_elden_ring_wiki_guide_200px.png",
+    "effect": "Break gem and use FP to produce many magic bolts",
+    "FP cost": 10,
+    "description": "Large piece of glintstone tinged with unstable magic. Found in crystal tunnels. Break gem, using FP to produce a magic bolt. Poor quality and thereby easily broken, a sorcerer wouldn't give it a second look.",
+    "dlc": 0
+  },
+  {
+    "id": 109,
+    "name": "Magic Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/magic_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting magic damage",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of magically resonant materials. Craftable item. Coats armament, adding magic damage to attacks. The effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 110,
+    "name": "Rot Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rot_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting scarlet rot",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of rotten materials. Craftable item. Coats armament, inflicting scarlet rot. The effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 111,
+    "name": "Rune Arc",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rune_arc_elden_ring_wiki_guide_200px.png",
+    "effect": "Grants the blessing of an equipped Great Rune upon use",
+    "FP cost": 0,
+    "description": "A shard of the shattered Elden Ring. Grants the blessing of an equipped Great Rune upon use. Even if no Great Rune is equipped, it will slightly increase maximum HP upon use. The lower arc of the Elden Ring is held to be the basin in which its blessings pool. Perhaps this shard originates from that very arc.",
+    "dlc": 0
+  },
+  {
+    "id": 112,
+    "name": "Silver-Pickled Fowl Foot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/silver_pickled_fowl_foot__elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts item discovery (+50)",
+    "FP cost": 0,
+    "description": "Four-toed foot of a fowl, pickled in a silvery medicinal solution. Craftable item. Temporarily boosts item discovery. Since old times, the needy would scrape the meat clean even from a fowl's claw.",
+    "dlc": 0
+  },
+  {
+    "id": 113,
+    "name": "Spellproof Dried Liver",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/spellproof_dried_liver_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts magic damage negation",
+    "FP cost": 0,
+    "description": "Cured animal liver, dried out after pickling in a blue medicinal solution. Craftable item. Temporarily boosts magic damage negation, improving damage mitigation against attacks imbued with magic.",
+    "dlc": 0
+  },
+  {
+    "id": 114,
+    "name": "Warming Stone",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/warming_stone_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to continuously heal nearby allies",
+    "FP cost": 20,
+    "description": "Ruin Fragment blessed with an incantation of the Two Fingers. Craftable item. Uses FP to generate warmth, continuously restoring the HP of those nearby. It's said that the Erdtree was once as warm as the gentle sun, and would gradually heal all who bathed in its rays.",
+    "dlc": 0
+  },
+  {
+    "id": 115,
+    "name": "Sacred Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/sacred_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Improves Sacred Flask's potency",
+    "FP cost": 0,
+    "description": "Blessing of the Erdtree, worshipped in the churches of all lands; this is but a faint vestige. Increases the potency of a Sacred Flask's restorative effects. (Can be used after resting at a site of grace.) During the age of the Erdtree, these tears were used to spread the faith, for theirs was once a certain blessing.",
+    "dlc": 0
+  },
+  {
+    "id": 116,
+    "name": "Furled Finger's Trick-Mirror",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/furled_fingers_trick-mirror_talisman_elden_ring_wiki_guide_200px.png",
+    "effect": "Take on appearance of a Host of Fingers",
+    "FP cost": 0,
+    "description": "A small, clouded mirror that reflects a flesh-and-blood figure. Makes the bearer take on the appearance of a Host of Fingers One of the ritual implements created by the Tarnished to deceive invaders.",
+    "dlc": 0
+  },
+  {
+    "id": 117,
+    "name": "Host's Trick-Mirror",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/hosts_trick-mirror_talisman_elden_ring_wiki_guide_200px.png",
+    "effect": "Take on appearance of a cooperator",
+    "FP cost": 0,
+    "description": "A small, clouded mirror that reflects a flesh-and-blood figure. Makes the bearer take on the appearance of a summoned cooperator. One of the ritual implements created by the Tarnished to deceive invaders.",
+    "dlc": 0
+  },
+  {
+    "id": 118,
+    "name": "Drawstring Lightning Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_lightning_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting lightning damage.",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of fulminating materials. Craftable item.A short string is attached to this lump. Quickly coats armament, inflicting lightning damage, but with a brief effect, owing to its small size.",
+    "dlc": 0
+  },
+  {
+    "id": 119,
+    "name": "Cuckoo Glintstone",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/cuckoo_glintstone_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to produce a magic bolt",
+    "FP cost": 6,
+    "description": "Lump of broken glintstone enwreathed with magic power. A \"faux sorcery\" used by the Knights of the Cuckoo. Craftable item.Launched straight ahead, using FP. A magic bolt springs forth from the point of impact.",
+    "dlc": 0
+  },
+  {
+    "id": 120,
+    "name": "Preserving Boluses",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/preserving_boluses_elden_ring_wiki_guide_200px.png",
+    "effect": "Alleviates scarlet rot buildup and cures rot.",
+    "FP cost": 0,
+    "description": "Scarlet boluses made of cave moss.Craftable item. Alleviates scarlet rot buildup and cures rot aliment. Scarlet rot accumulates gradually, coming into effect once the threshold is reached. Scarlet rot ailment greatly lowers HP in steady increments for a period.",
+    "dlc": 0
+  },
+  {
+    "id": 121,
+    "name": "Raw Meat Dumpling",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/raw_meat_dumpling_elden_ring_wiki_guide_200px.png",
+    "effect": "Restores HP but also poisons the user",
+    "FP cost": 0,
+    "description": "A pungent raw meatball, made succulent by virtue of being on the verge of turning. Restores HP but also poisons the user. Not recommended for those who prefer to know the origin of their meats.",
+    "dlc": 0
+  },
+  {
+    "id": 122,
+    "name": "Remembrance of the Full Moon Queen",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_full_moon_queen_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Rennala, Queen of the Full Moon, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader.Alternatively, it can be used to gain a great bounty of runes. In her youth, Rennala was a prominent champion who charmed the academy with her lunar magic, becoming its master. She also led the Glintstone Knights and established the house of Caria as royalty.",
+    "dlc": 0
+  },
+  {
+    "id": 123,
+    "name": "Immunizing White Cured Meat",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/immunizing_white_cured_meat_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts immunity",
+    "FP cost": 0,
+    "description": "A white sliced meat, dried out after pickling in a green medicinal solution.Craftable item. Temporarily boosts immunity. Lasts longer than traditional cured meat, but with reduced effectiveness.",
+    "dlc": 0
+  },
+  {
+    "id": 124,
+    "name": "Prattling Pate \"Wonderful",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/prattling_pate_wonderful_elden_ring_wiki_guide_200px.png",
+    "effect": "Emits a voice that says \"Wonderful",
+    "FP cost": 0,
+    "description": "Twisted clay sculpt in the shape of a human head.Emits a voice that says \"Wonderful.\" A wistful fetish that imparts voices and words on an eternal journey. \"Wonderful",
+    "dlc": 0
+  },
+  {
+    "id": 125,
+    "name": "Clarifying White Cured Meat",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/clarifying_white_cured_meat_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts focus",
+    "FP cost": 0,
+    "description": "A white sliced meat, dried out after pickling in a purple medicinal solution.Craftable item. Temporarily boosts focus. Lasts longer than traditional cured meat, but with reduced effectiveness.",
+    "dlc": 0
+  },
+  {
+    "id": 126,
+    "name": "Soft Cotton",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/soft_cotton_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily reduces fall damage and sound",
+    "FP cost": 0,
+    "description": "A soft but sturdy cotton formed from splitting open Rowa fruit in a particular manner. Craftable item. Attaching this cotton to the bottom of one's feet allows for a temporary reduction in fall damage and sound. If you must court danger, at the very least, tread lightly.",
+    "dlc": 0
+  },
+  {
+    "id": 127,
+    "name": "Poisonbone Dart",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/poisonbone_dart_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict damage and build up poison",
+    "FP cost": 0,
+    "description": "Animal bone sharpened into a knife for throwing, with a poison-laced tip.Craftable item. Throw at enemies to inflict damage and build up poison.",
+    "dlc": 0
+  },
+  {
+    "id": 128,
+    "name": "Poisoned Stone",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/poisone_stone_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to cause buildup of poison",
+    "FP cost": 0,
+    "description": "A small stone with a poisoned core. Throw at enemies to cause buildup of poison. Miners employ these stones as tools for pest extermination, but have long forgotten how to craft them.",
+    "dlc": 0
+  },
+  {
+    "id": 129,
+    "name": "Poisoned Stone Clump",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/posoned_stone_clump_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw together to cause buildup of poison",
+    "FP cost": 0,
+    "description": "A clump of small stones with poison cores. Throw together at enemies to cause buildup of poison. Miners employ these stones as tools for pest extermination, but have long forgotten how to craft them.",
+    "dlc": 0
+  },
+  {
+    "id": 130,
+    "name": "Dragonwound Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dragonwound_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Coats armament, granting anti-dragon effect",
+    "FP cost": 0,
+    "description": "Solidified grease made from a gravel-stone mixture. Craftable item. Coats armament, granting an anti-dragon effect. The effect lasts only for a short time. When the dragons were born from their ancient kin, they lost their stone scales, which can now be used to cause them mortal harm.",
+    "dlc": 0
+  },
+  {
+    "id": 131,
+    "name": "Prattling Pate \"Apologies",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/prattling_pate_apologies_elden_ring_wiki_guide_200px.png",
+    "effect": "Emits a voice that says \"Apologies",
+    "FP cost": 0,
+    "description": "Twisted clay sculpt in the shape of a human head.Emits a voice that says \"Apologies.\" A wistful fetish that imparts voices and words on an eternal journey. Apologies",
+    "dlc": 0
+  },
+  {
+    "id": 132,
+    "name": "Rejuvenating Boluses",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rejuvenating_boluses_elden_ring_wiki_guide_200px.png",
+    "effect": "Alleviates death blight buildup",
+    "FP cost": 0,
+    "description": "Black boluses made of cave moss.Craftable item. Alleviates death blight buildup. Blight accumulates slowly, causing instant death once the threshold is reached. Take one of these in timely fashion to avoid such an event.",
+    "dlc": 0
+  },
+  {
+    "id": 133,
+    "name": "Explosive Stone Clump",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/esplosive_stone_clump_elden_ring_wiki_guide_200px.png",
+    "effect": "Explodes when thrown together, inflicting Fire Damage",
+    "FP cost": 0,
+    "description": "A clump of small stones with smoldering cores. Explodes when thrown together at enemies, inflicting fire damage. Miners employ these stones as tools for rock blasting, but have long forgotten how to craft them.",
+    "dlc": 0
+  },
+  {
+    "id": 134,
+    "name": "Prattling Pate \"You're beautiful",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/prattling_pate_you're_beautiful_elden_ring_wiki_guide_200px.png",
+    "effect": "Emits a voice that says \"You're beautiful",
+    "FP cost": 0,
+    "description": "Twisted clay sculpt in the shape of a demi-human head.Emits a voice that says \"You're beautiful.\" A wistful fetish that imparts voices and words on an eternal journey. Unconditional love. Unrestrained assurance. It must have been a mother speaking. You're beautiful",
+    "dlc": 0
+  },
+  {
+    "id": 135,
+    "name": "Poison Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/poison_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting poison",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of poison-green materials. Craftable item. Coats armament, inflicting poison.The effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 136,
+    "name": "Prattling Pate \"Please help",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/prattling_pate_please_help_elden_ring_wiki_guide_200px.png",
+    "effect": "Emits a voice that says \"Please help",
+    "FP cost": 0,
+    "description": "Twisted clay sculpt in the shape of a human head.Emits a voice that says \"Please help.\" A wistful fetish that imparts voices and words on an eternal journey. \"Please help",
+    "dlc": 0
+  },
+  {
+    "id": 137,
+    "name": "Golden Rune [7]",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_rune_7_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain 2500 runes",
+    "FP cost": 0,
+    "description": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. Use to gain 2500 runes. Those born at the foot of the Erdtree are blessed. At least, that is the enduring belief of the people of the plateau. Stake of Marika.",
+    "dlc": 0
+  },
+  {
+    "id": 138,
+    "name": "Golden Rune [8]",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_rune_8_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain 3000 runes",
+    "FP cost": 0,
+    "description": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. Use to gain 3000 runes. Those born at the foot of the Erdtree are blessed. At least, that is the enduring belief of the people of the plateau.",
+    "dlc": 0
+  },
+  {
+    "id": 139,
+    "name": "Golden Rune [9]",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_rune_9_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain 3800 runes",
+    "FP cost": 0,
+    "description": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. Use to gain 3800 runes. Those born at the foot of the Erdtree are blessed. At least, that is the enduring belief of the people of the plateau. Lake of Rot",
+    "dlc": 0
+  },
+  {
+    "id": 140,
+    "name": "Golden Rune [10]",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_rune_10_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain 5000 runes",
+    "FP cost": 0,
+    "description": "Grace that dwells within the inhabitants of the Lands Between",
+    "dlc": "the lingering residue of gold. Use to gain 5000 runes. The grace of gold blessed those who were first to serve it with the most vivid coloration. Lake of Rot"
+  },
+  {
+    "id": 141,
+    "name": "Shield Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/shield_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Boosts guarding ability and all damage negation.",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of magically resonant materials. Craftable item. Coats left-hand armament, boosting guarding ability and all forms of damage negations. Primarily used on shields.",
+    "dlc": 0
+  },
+  {
+    "id": 142,
+    "name": "Soap",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/soap_elden_ring_wiki_guide_200px.png",
+    "effect": "Removes filth and accumulations on the body",
+    "FP cost": 0,
+    "description": "A plant-based soap made from mushroom juice.Craftable item. Cleans off filth and other accumulations on the body while also slightly reducing poison buildup. Filth covering the exterior eventually seeps inside, soiling one's very spirit.",
+    "dlc": 0
+  },
+  {
+    "id": 143,
+    "name": "Frenzyflame Stone",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/frenzyflame_stone_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to continuously heal chaos followers",
+    "FP cost": 15,
+    "description": "Ruin Fragment blessed with an incantation of the Three Fingers.Craftable item. Uses FP to generate warmth, continuously restoring the HP of those who host the frenzied flame. Confers madness upon those who have not adopted the flame.Take care not to mistake this for its gentler cousin.",
+    "dlc": 0
+  },
+  {
+    "id": 144,
+    "name": "Soporific Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/soporific-grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting sleep",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of light-purple materials. Craftable item. Coats armament, inflicting sleep.The effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 145,
+    "name": "Lightning Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lightning_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Coats armament, inflicting lightning damage",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of fulminating materials. Craftable item. Coats armament, adds lightning damage to attacks.The effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 146,
+    "name": "Wraith Calling Bell",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/wraith_calling_bell_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to ring bell and calls prowling wraiths",
+    "FP cost": 7,
+    "description": "Bell used by worshippers of revenants. Ring bell, using FP to summon prowling wraiths. This can be done multiple times in a row. Wraiths are said to be the vengeful spirits of those who died when cursed. similar",
+    "dlc": 0
+  },
+  {
+    "id": 147,
+    "name": "Holyproof Dried Liver",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/holyproof_dried_liver_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts holy damage negation",
+    "FP cost": 0,
+    "description": "Cured animal liver, dried out after pickling in a golden medicinal solution.Craftable item. Temporarily boosts holy damage negation, improving damage mitigation against attacks imbued with holiness.",
+    "dlc": 0
+  },
+  {
+    "id": 148,
+    "name": "Remembrance of the Starscourge",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_starscourge_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Starscourge Radahn, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader.Alternatively, it can be used to gain a great bounty of runes. The Red Lion General wielded gravitational powers which he learned in Sellia during his younger days. All so he would never have to abandon his beloved but scrawny steed.",
+    "dlc": 0
+  },
+  {
+    "id": 149,
+    "name": "Invigorating White Cured Meat",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/invigorating_white_cured_meat_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts Robustness",
+    "FP cost": 0,
+    "description": "A white sliced meat, dried out after pickling in a red medicinal solution.Craftable item. Temporarily boosts robustness. Lasts longer than traditional cured meat, but with reduced effectiveness.",
+    "dlc": 0
+  },
+  {
+    "id": 150,
+    "name": "Invigorating White Cured Meat",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/invigorating_white_cured_meat_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts Robustness",
+    "FP cost": 0,
+    "description": "A white sliced meat, dried out after pickling in a red medicinal solution.Craftable item. Temporarily boosts robustness. Lasts longer than traditional cured meat, but with reduced effectiveness.",
+    "dlc": 0
+  },
+  {
+    "id": 151,
+    "name": "Dappled Cured Meat",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dappled_cured_meat_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts Immunity, Robustness, and Focus",
+    "FP cost": 0,
+    "description": "Cured strip of meat, dried out after pickling in a dappled medicinal solution.Craftable item. Temporarily boosts immunity, robustness, and focus.",
+    "dlc": 0
+  },
+  {
+    "id": 152,
+    "name": "Crystal Dart",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crystal_dart_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw to inflict Magic Damage",
+    "FP cost": 1,
+    "description": "Throwing knife chiseled from impure crystal. Craftable item. Consumes FP. Throw at enemies to deal magic damage. Long ago, it is said that a golem crafter employed a similar crystal tool.",
+    "dlc": 0
+  },
+  {
+    "id": 153,
+    "name": "Roped Fetid Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/roped_fetid_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw behind to inflict Deadly Poison",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of effluents is sealed inside, and a short rope that aids throwing has been secured around the pot. Throw at rearward enemies to cause buildup of deadly poison. Beware though; those who carry these pots will slowly accumulate poison in their own bodies. Push someone in a privy; expect to get dung on your hands.",
+    "dlc": 0
+  },
+  {
+    "id": 154,
+    "name": "Roped Oil Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/roped_oil_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw behind to boost the next Fire Damage they take",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of oil-infused materials is sealed inside, and a short rope that aids throwing has been secured around the pot. Throw at rearward enemies to soak them in oil, making them heavily susceptible to fire damage.",
+    "dlc": 0
+  },
+  {
+    "id": 155,
+    "name": "Beastlure Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/beastlure_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP. Lures beasts only.",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a ritual pot. Enchanted with assassin incantations. Consumes FP. Throw to create a red shadow. The illusion lures in beasts into attacking it. This effect does not change even during combat.",
+    "dlc": 0
+  },
+  {
+    "id": 156,
+    "name": "Cursed-Blood Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/cursed-blood_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw to make your summons target a particular enemy.",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a ritual pot. Decorated with the crest of the Lord of Blood. Throw at enemies to douse them in accursed blood, causing summoned spirits to assail them with a rabid fervor. A childhood memory of the Lord of Blood.",
+    "dlc": 0
+  },
+  {
+    "id": 157,
+    "name": "Freezing Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/freezing_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict Frostbite.",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a ritual pot. Engraved with the crest of the Carian Royals. Throw at enemies to cause buildup of frost. Originates from the cold, dark moon of Ranni, the Carian princess.",
+    "dlc": 0
+  },
+  {
+    "id": 158,
+    "name": "Fetid Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/fetid_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict Deadly Poison",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of effluents is sealed inside. As the mixture ferments, toxins are produced alongside a putrid stench that seeps out once ripe. Throw at enemies to cause buildup of deadly poison. Beware though; those who carry these pots will slowly accumulate poison in their own bodies. Push someone in a privy; expect to get dung on your hands.",
+    "dlc": 0
+  },
+  {
+    "id": 159,
+    "name": "Poison Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/poison_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict Poison",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of poisonous materials is sealed inside. Throw at enemies to cause buildup of poison.",
+    "dlc": 0
+  },
+  {
+    "id": 160,
+    "name": "Giantsflame Fire Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/giantsflame_fire_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw at enemies to inflict heavy Fire Damage.",
+    "FP cost": 10,
+    "description": "Craftable item prepared using a ritual pot. Enchanted by incantations of the Giants' Flame. Consumes FP. Throw at enemies to inflict heavy fire damage. Damage scales with faith.",
+    "dlc": 0
+  },
+  {
+    "id": 161,
+    "name": "Oil Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/oil_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to boost the next Fire Damage they take",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of oil-infused materials is sealed inside. Throw at enemies to soak them in oil, making them heavily susceptible to fire damage.",
+    "dlc": 0
+  },
+  {
+    "id": 162,
+    "name": "Remembrance of the Regal Ancestor",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_regal_ancestor_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of the Regal Ancestor Spirit, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader.Alternatively, it can be used to gain a great bounty of runes. Ancestral spirits exist as a phenomenon beyond the purview of the Erdtree. Life sprouts from death, as it does from birth. Such is the way of the living.",
+    "dlc": 0
+  },
+  {
+    "id": 163,
+    "name": "Thawfrost Boluses",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/thawfrost_boluses_elden_ring_wiki_guide_200px.png",
+    "effect": "Alleviates buildup of frost.",
+    "FP cost": 0,
+    "description": "Ice-hued boluses made from cave moss.Craftable item. Alleviates buildup of frost and cures frostbite ailments. Frost accumulates gradually, causing damage and inflicting frostbite once the threshold is reached.Vulnerability to damage increases for a certain duration.",
+    "dlc": 0
+  },
+  {
+    "id": 164,
+    "name": "Remembrance of the Naturalborn",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_naturalborn_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Astel, Naturalborn of the Void, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader.Alternatively, it can be used to gain a great bounty of runes. A malformed star born in the flightless void far away. Once destroyed an Eternal City and took away their sky. A falling star of ill omen.",
+    "dlc": 0
+  },
+  {
+    "id": 165,
+    "name": "Margit's Shackle",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/margits_shackle_elden_ring_wiki_guide_200px.png",
+    "effect": "Binds Margit and Morgott two times per battle",
+    "FP cost": 0,
+    "description": "A fetish bathed in golden magic. Shackles were used to bind the accursed people called the Omen, and these ones were made to keep a particular Omen under strictest confinement. Though faint, the shackles still retain vestiges of power enough to trap the once-bound Margit on earth, if only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 166,
+    "name": "Clarifying Cured Meat",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/clarifying_cured_meat_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts focus",
+    "FP cost": 0,
+    "description": "Cured strip of meat, dried out after pickling in a purple medicinal solution. Craftable item. Temporarily boosts focus. Higher focus helps to mitigate the buildup of sleep and madness.",
+    "dlc": 0
+  },
+  {
+    "id": 167,
+    "name": "Sacred Order Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/sacred_order_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw at enemies to inflict heavy Holy Damage.",
+    "FP cost": 11,
+    "description": "Craftable item prepared using a ritual pot.Enchanted by incantations of the Golden Order. Consumes FP. Throw at enemies to inflict heavy holy damage. Highly effective against Those Who Live in Death, even preventing them from rising again. The Golden Order has no mercy for those who trespass beyond life's bounds.",
+    "dlc": 0
+  },
+  {
+    "id": 168,
+    "name": "Rot Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/rot_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict Scarlet Rot",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a ritual pot. Decorated with the crest of scarlet wings. Throw at enemies to cause buildup of scarlet rot. The rot bubbles up from the Swamp of Aeonia, and eats away at life like a vicious plague.",
+    "dlc": 0
+  },
+  {
+    "id": 169,
+    "name": "Spark Aromatic",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/spark_aromatic_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to broadly scatter sparks in a wide arc straight ahead",
+    "FP cost": 5,
+    "description": "Art of the perfumers who fought In the Shattering.Craftable with a perfume bottle. Uses FP to broadly scatter sparks in a wide arc straight ahead. Though fire was prohibited to those who served the Erdtree, this rule was forgotten as the war drew ever on.",
+    "dlc": 0
+  },
+  {
+    "id": 170,
+    "name": "Uplifting Aromatic",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/uplifting_aromatic_elden_ring_wiki_guide_200px.png",
+    "effect": "Boosts ally attack power and reduces incoming damage once.",
+    "FP cost": 22,
+    "description": "Art of the perfumers who fought in the Shattering.Craftable with a perfume bottle. Uses FP to raise the attack power of the user and nearby allies while also reducing the damage from one incoming attack by half.This aromatic has an extremely potent morale-raising effect that makes those accustomed to it fearless in the face of death. It was this influence that made the perfumers exceptional commanders.",
+    "dlc": 0
+  },
+  {
+    "id": 171,
+    "name": "Blasphemous Claw",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/blasphemous_claw_elden_ring_wiki_guide_200px.png",
+    "effect": "Deflects the power of the Black Blade",
+    "FP cost": 0,
+    "description": "A slab of rock engraved with traces of the Rune of Death. Can deflect the power of the Black Blade. On the night of the dire plot, Ranni rewarded Praetor Rykard with these traces. Should the coming trespass one day transpire, they would serve as a last-resort foil, allowing Rykard to challenge Maliketh the Black Blade, the black beast of Destined Death.",
+    "dlc": 0
+  },
+  {
+    "id": 172,
+    "name": "Drawstring Holy Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/deawstring_holy_grese_elden_ring_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting holy damage",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of holy resonant materials. Craftable item.A short string is attached to this lump. Quickly coats armament, inflicting holy damage, but with a brief effect, owing to its small size.",
+    "dlc": 0
+  },
+  {
+    "id": 173,
+    "name": "Lightningproof Dried Liver",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lightningproof_dried_liver_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts lightning damage negation",
+    "FP cost": 0,
+    "description": "Cured animal liver, dried out after pickling in an yellow medicinal solution. Craftable item. Temporarily boosts lightning damage negation, improving damage mitigation against attacks imbued with lightning.",
+    "dlc": 0
+  },
+  {
+    "id": 174,
+    "name": "Memory of Grace",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/memory_of_grace_elden_ring_wiki_guide_200px.png",
+    "effect": "Lose all runes, return to last site of lost grace visited.",
+    "FP cost": 0,
+    "description": "The memory of first grace, which once guided bygone Tarnished to the Lands Between. Lose all runes and return to last site of grace visited. It is merely a cycle. Stand before the Elden Ring. Become the Elden Lord.",
+    "dlc": 0
+  },
+  {
+    "id": 175,
+    "name": "Omen Bairn",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/omen_bairn_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to unleash wraiths that chase down foes.",
+    "FP cost": 24,
+    "description": "Doll of a curseborn bairn. Uses FP to unleash wraiths that chase down foes. Omen babies have all their horns excised, causing most to perish. These fetishes are made to memorialize them. \"Please, don't hate me, or curse me. Please.",
+    "dlc": 0
+  },
+  {
+    "id": 176,
+    "name": "Remembrance of the Black Blade",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_black_blade_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Maliketh, the Black Blade, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader. Alternatively, it can be used to gain a great bounty of runes. Maliketh was a shadowbound beast given to his Empyrean. Marika's sole need of her shadow was a vessel to lock away Destined Death. Even then, she betrayed him.",
+    "dlc": 0
+  },
+  {
+    "id": 177,
+    "name": "Remembrance of the Blasphemous",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_blasphemous_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Rykard, Lord of Blasphemy, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader. Alternatively, it can be used to gain a great bounty of runes. Rykard took the form of a giant serpent that he might devour, grow, and live eternally. \"I understand. The road of blasphemy is long and perilous. One cannot walk it unprepared to sin.",
+    "dlc": 0
+  },
+  {
+    "id": 178,
+    "name": "Remembrance of the Fire Giant",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_fire_giant_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Fire Giant, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader. Alternatively, it can be used to gain a great bounty of runes. The Fire Giant is a survivor of the War against the Giants. Upon realizing the flames of their forge would never die, Queen Marika marked him with a curse. \"O trifling giant, mayest thou tend thy flame for eternity.",
+    "dlc": 0
+  },
+  {
+    "id": 179,
+    "name": "Remembrance of the Omen King",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_omen_king_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Morgott, the Omen King, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader.Alternatively, it can be used to gain a great bounty of runes. Though born one of the graceless Omen, Morgott took it upon himself to become the Erdtree's protector. He loved not in return, for he was never loved, but nevertheless, love it he did.",
+    "dlc": 0
+  },
+  {
+    "id": 180,
+    "name": "Drawstring Rot Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_rot_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting scarlet rot",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of rotten materials. Craftable item.A short string is attached to this lump. Quickly coats armament, inflicting scarlet rot, but with a brief effect, owing to its small size.",
+    "dlc": 0
+  },
+  {
+    "id": 181,
+    "name": "Golden Rune [4]",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/golden_rune_4_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gain 1200 runes",
+    "FP cost": 0,
+    "description": "Grace that dwells within the inhabitants of the Lands Between; the lingering trace of gold. Use to gain 1200 runes. Even now, runes are still imbued with the power of life itself. Do you see the Erdtree towering o'er? Spirit Wandering Nobles West Liurnia of the Lakes North Sarcophagi North-East Sarcophagi north-east sarcophagi",
+    "dlc": 0
+  },
+  {
+    "id": 182,
+    "name": "Remembrance of the Dragonlord",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_dragonlord_item_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Dragonlord Placidusax, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader. Alternatively, it can be used to gain a great bounty of runes. The Dragonlord whose seat lies at the heart of the storm beyond time is said to have been Elden Lord in the age before the Erdtree. Once his god was fled, the lord continued to await its return.",
+    "dlc": 0
+  },
+  {
+    "id": 183,
+    "name": "Remembrance of the Lichdragon",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_lichdragon_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Lichdragon Fortissax, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader. Alternatively, it can be used to gain a great bounty of runes. After Godwyn the Golden became the Prince of Death, the ancient dragon fought long and hard against the Death within its companion. Alas, victory was never achieved and its only reward was corruption.",
+    "dlc": 0
+  },
+  {
+    "id": 184,
+    "name": "Elden Remembrance",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/elden_remembrance_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of the Elden Beast, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader. Alternatively, it can be used to gain a great bounty of runes. It was the vassal beast of the Greater Will and living incarnation of the concept of Order.",
+    "dlc": 0
+  },
+  {
+    "id": 185,
+    "name": "Remembrance of the Rot Goddess",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_the_rot_goddess_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Malenia, Goddess of Rot, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader. Alternatively, it can be used to gain a great bounty of runes. Miquella and Malenia are both the children of a single god. As such they are both Empyreans, but suffered afflictions from birth. One was cursed with eternal childhood, and the other harbored rot within. Carved into the Golden Tree Goddess of Rot, Recollection of Malenia Miquella and Malenia, are children of a single god because of this, the pair are god people, but, their lives are frail one, is forever immature, the other carries rot zeijyaku the body is easy to enter, whether it's pathogens... or overly sentimental cursed I am Malenia. Blade of Miquella weak easy to beat",
+    "dlc": 0
+  },
+  {
+    "id": 186,
+    "name": "Radiant Baldachin's Blessing",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/radiant_baldachins_blessing_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to temporarily raise poise",
+    "FP cost": 20,
+    "description": "Protection of a hidden temple in the guise of a bedchamber. This blessing is of the utmost rarity. Uses FP to temporarily raise poise. The effect lasts longer than a mere favor. It's said a deathbed companion will only produce a blessing of this kind for a champion but once in her entire life. The sole blessing which she imbues of her own volition. not",
+    "dlc": 0
+  },
+  {
+    "id": 187,
+    "name": "Redmane Fire Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/redmane_fire_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict heavy Fire Damage",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a ritual pot. Engraved with the crest of red-maned lion. Throw at enemies to inflict heavy fire damage. Even today, the survivors of Radahn's battalion employ fire to stave off the scarlet rot.",
+    "dlc": 0
+  },
+  {
+    "id": 188,
+    "name": "Lightning Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lightning_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict Lightning Damage",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of fulminating materials is sealed inside. Throw at enemies to inflict lightning damage.",
+    "dlc": 0
+  },
+  {
+    "id": 189,
+    "name": "Ancient Dragonbolt Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ancient_dragonbolt_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw at enemies to inflict heavy Lightning Damage",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a ritual pot. Engraved with the crest of the ancient dragon. Throw at enemies to inflict heavy lightning damage. Allows one to wield ancient drake lightning regardless of faith. The residual power of relics is a purely natural phenomenon.",
+    "dlc": 0
+  },
+  {
+    "id": 190,
+    "name": "Alluring Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/alluring_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw to lure foes of human build only.",
+    "FP cost": 11,
+    "description": "Craftable item prepared using a ritual pot.Enchanted with assasin incantations. Consumes FP. Throw to create a pale shadow. The illusion will lure in and distract foes of human build outsideof combat, while demi-humans will be lured in even during combat.",
+    "dlc": 0
+  },
+  {
+    "id": 191,
+    "name": "Roped Lightning Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/roped_lightning_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw behind to inflict Lightning Damage",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot.A cocktail of fulminating materials is sealed inside, and a short rope that aids throwing has been secured around the pot.Throw at rearward enemies to inflict lightning damage.",
+    "dlc": 0
+  },
+  {
+    "id": 192,
+    "name": "Roped Magic Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/roped_magic_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw behind to inflict Magic Damage.",
+    "FP cost": 5,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of magically resonant materials is sealed inside. Called a \"faux sorcery\" in Raya Lucaria. Consumes FP. Throw at rearward enemies to inflict magic damage.",
+    "dlc": 0
+  },
+  {
+    "id": 193,
+    "name": "Roped Fly Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/roped_fly_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw behind to inflict Hemorrhage over time",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot. A cocktail of effluents is sealed inside, and a short rope that aids throwing has been secured around the pot. Throw at rearward enemies to release a swarm of bloodflies. Their fangs inflict countless painful lacerations on the victim while the grating sound of their wings assails their sanity. The maggots found in waste feed on blood and turn into vicious flies that are pitiably short-lived.",
+    "dlc": 0
+  },
+  {
+    "id": 194,
+    "name": "Roped Freezing Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/roped_freezing_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw behind to cause frostbite build-up.",
+    "FP cost": 0,
+    "description": "Craftable with a cracked pot. Frost has been sealed inside. A short rope that aids throwing is attached. Thrown at rearward enemies using the rope, the pot explodes, causing frostbite buildup in enemies.",
+    "dlc": 0
+  },
+  {
+    "id": 195,
+    "name": "Roped Volcano Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/roped_volcano_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Throw behind to inflict Fire Damage over time",
+    "FP cost": 0,
+    "description": "Craftable item prepared using a cracked pot.Powdered volcanic rock is sealed inside, and a short rope that aids throwing has been secured around the pot.Thrown at rearward enemies to disperse a cloud of heat, dealing continuous damage to those caught inside for a short duration.",
+    "dlc": 0
+  },
+  {
+    "id": 196,
+    "name": "Starlight Shards",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/starlight_shards_elden_ring_wiki_guide_200px.png",
+    "effect": "Use to gradually recover FP",
+    "FP cost": 0,
+    "description": "An ephemeral sliver that gives off a pale blue glow. What remains of a passing flash of starlight. Use to gradually recover FP. A prized item that was once used in the Eternal City as an ingredient in intoxicating draughts.",
+    "dlc": 0
+  },
+  {
+    "id": 197,
+    "name": "Holy Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/holy_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Coats armament, adding holy damage to attacks",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of holy resonant materials. Craftable item. Coats armament, adding holy damage to attacks. The effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 198,
+    "name": "Drawstring Poison Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_poison_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting poison",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of poison-green materials. Craftable item.A short string is attached to this lump. Quickly coats armament, inflicting poison, but with a brief effect, owing to its small size.",
+    "dlc": 0
+  },
+  {
+    "id": 199,
+    "name": "Drawstring Magic Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_magic_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting magic damage",
+    "FP cost": 0,
+    "description": "Solidified grease made from a mixture of magically resonant materials. Craftable item. A short string is attached to this lump. Quickly coats armament, inflicting magic damage, but with a brief effect, owing to its small size.",
+    "dlc": 0
+  },
+  {
+    "id": 200,
+    "name": "Drawstring Blood Grease",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/drawstring_blood_grease_elden_ring_wiki_guide_200px.png",
+    "effect": "Quickly coats armament, inflicting blood loss",
+    "FP cost": 0,
+    "description": "Blistered solid grease made from a mixture of blood-red materials. Craftable item. A short string is attached to this lump. Quickly coats armament, inflicting blood loss, but with a brief effect, owing to its small size.",
+    "dlc": 0
+  },
+  {
+    "id": 201,
+    "name": "Furlcalling Finger Remedy",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/furlcalling_finger_remedy_elden_ring_wiki_guide_200px.png",
+    "effect": "Reveals co-op and hostile summoning signs",
+    "FP cost": 0,
+    "description": "Item for online play. (Can also be used from the Multiplayer menu.) Craftable item. Reveals cooperative and competitive multiplayer signs. Co-op summoning signs will be shown in gold, while hostile summoning signs will be shown in red. Multiplayer begins when you summon a player from another world through their sign.",
+    "dlc": 0
+  },
+  {
+    "id": 202,
+    "name": "Clarifying Boluses",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/clariflying_boluses_elden_ring_wiki_guide_200px.png",
+    "effect": "Alleviates madness buildup",
+    "FP cost": 0,
+    "description": "Yellow boluses made of cave moss. Craftable item. Alleviates madness buildup. Madness accumulates slowly, inflicting heavy damage and reducing FP once the threshold is reached. Take one of these in timely fashion to avoid such events.",
+    "dlc": 0
+  },
+  {
+    "id": 203,
+    "name": "Pureblood Knight's Medal",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/pureblood_knights_medal_elden_ring_wiki_guide_200px.png",
+    "effect": "Audience with Mohg will be granted, one day",
+    "FP cost": 0,
+    "description": "Proof that one is a glorious knight of the new Dynasty of Mohgwyn that the Lord of Blood will inaugurate. Use to be granted audience with Mohg. Only, it is not yet time. For Mohg yet slumbers beside the Divinity.Be Patient. The new dynasty is nigh.",
+    "dlc": 0
+  },
+  {
+    "id": 204,
+    "name": "Remembrance of the Grafted",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/remembrance_of_grafted_elden_ring_wiki_guide_200px.png",
+    "effect": "Take the power of its namesake via Finger Reader",
+    "FP cost": 0,
+    "description": "Remembrance of Godrick, the Grafted, hewn into the Erdtree. The power of its namesake can be unlocked by the Finger Reader. Alternatively, it can be used to gain a great bounty of runes. A feeble man sought power through the grotesque act of grafting. \"One day we'll return together, to our home, bathed in rays of gold.",
+    "dlc": 0
+  },
+  {
+    "id": 205,
+    "name": "Glintstone Scrap",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/glintstone_scrap_elden_ring_wiki_guide_200px.png",
+    "effect": "Break gem, using FP to produce a magic bolt.",
+    "FP cost": 4,
+    "description": "Piece of glintstone tinged with unstable magic. Found in crystal tunnels.Break gem, using FP to produce a magic bolt.Poor quality and thereby easily broken, a sorcerer wouldn't give it a second look.",
+    "dlc": 0
+  },
+  {
+    "id": 206,
+    "name": "Albinauric Pot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/albinauric_pot_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP. Throw to impede healing using a flask of tears",
+    "FP cost": 8,
+    "description": "Craftable item prepared using a ritual pot. Enchanted by sorceries of the Cuckoos. Consumes FP. Throw at enemies to impede recovery actions using a flask of tears for a certain duration. The Knights of the Cuckoos do declare. Behold, thy defiled blood. Unlike any humor that flows in our grand realm.",
+    "dlc": 0
+  },
+  {
+    "id": 207,
+    "name": "Ironjar Aromatic",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ironjar_aromatic_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to temporarily turn wielder's body to steel",
+    "FP cost": 18,
+    "description": "Forbidden art of depraved perfumers.Craftable with a perfume bottle. Uses FP to temporarily turn body to steel, boosting poise, resistances and damage negation at the expense of mobility and vulnerability to lightning. An art that requires fragments of hunted noble jars. Depraved perfumers are plainly in league with jar poachers.",
+    "dlc": 0
+  },
+  {
+    "id": 208,
+    "name": "Acid Spraymist",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/acid_spraymist_elden_ring_wiki_guide_200px.png",
+    "effect": "Uses FP to release acid mist from the mouth",
+    "FP cost": 13,
+    "description": "Forbidden art of depraved perfumers.Craftable with a perfume bottle. Uses FP to release an acidic mist from user's mouth, damaging armaments and temporarily lowering attack power. Perfumed powder is held in the mouth to dissolve before being expelled. It was once a restorative art, or so it is said.",
+    "dlc": 0
+  }
+]

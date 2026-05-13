@@ -1,0 +1,28 @@
+:root {
+  --general-background: #04080ac0;
+  --general-background-hover: rgb(8, 17, 20);
+  --font: "Oswald";
+}
+
+body {
+  background-image: url("../assets/eldenring.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 1fr min(130ch, 100%) 1fr;
+  font-family: var(--font);
+}
+
+body > * {
+  grid-column: 2;
+}
+
+img {
+  max-width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important;
+  margin: 10px auto;
+}

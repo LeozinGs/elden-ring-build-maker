@@ -1,0 +1,1055 @@
+[
+  {
+    "id": 0,
+    "name": "Ash of War: Dryleaf Whirlwind",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_dryleaf_whirlwind_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Dryleaf Whirlwind",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 1,
+    "name": "Ash of War: Aspects of the Crucible: Wings",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_aspects_of_the_crucible_wings_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Aspects of the Crucible: Wings",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 2,
+    "name": "Ash of War: Spinning Gravity Thrust",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_spinning_gravity_thrust_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Spinning Gravity Thrust",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 3,
+    "name": "Ash of War: Palm Blast",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_palm_blast_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Palm Blast",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 4,
+    "name": "Ash of War: Piercing Throw",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_piercing_throw_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Piercing Throw",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 5,
+    "name": "Ash of War: Scattershot Throw",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_scattershot_throw_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Scattershot Throw",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 6,
+    "name": "Ash of War: Wall of Sparks",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_wall_of_sparks_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Wall of Sparks",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 7,
+    "name": "Ash of War: Rolling Sparks",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_rolling_sparks_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Rolling Sparks",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 8,
+    "name": "Ash of War: Raging Beast",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_raging_beast_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Raging Beast",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 9,
+    "name": "Ash of War: Savage Claws",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_savage_claws_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Savage Claws",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 10,
+    "name": "Ash of War: Blind Spot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_blind_spot_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Blind Spot",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 11,
+    "name": "Ash of War: Swift Slash",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_swift_slash_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Swift Slash",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 12,
+    "name": "Ash of War: Overhead Stance",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_overhead_stance_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Overhead Stance",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 13,
+    "name": "Ash of War: Wing Stance",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_wing_stance_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Wing Stance",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 14,
+    "name": "Ash of War: Blinkbolt",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_blinkbolt_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Lightning",
+    "skill": "Blinkbolt",
+    "description": "This Ash of War grants an armament the Lightning affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 15,
+    "name": "Ash of War: Flame Skewer",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_flame_skewer_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Flame Art",
+    "skill": "Flame Skewer",
+    "description": "This Ash of War grants an armament the Flame Art affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 16,
+    "name": "Ash of War: Savage Lion's Claw",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_savage_lions_claw_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Savage Lion's Claw",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 17,
+    "name": "Ash of War: Divine Beast Frost Stomp",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_divine_beast_frost_stomp_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Cold",
+    "skill": "Divine Beast Frost Stomp",
+    "description": "This Ash of War grants an armament the Cold affinity and the following skill: \"Divine Beast Frost Stomp: A skill which imitates the wrath of the divine beast's dance. Lift a leg up high and stamp it down with great force. Sends a powerful wave of frost straight out along the ground. Can be charged to increase power and range.\" Usable on all melee armaments.",
+    "dlc": 1
+  },
+  {
+    "id": 18,
+    "name": "Ash of War: Flame Spear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_flame_spear_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Flame Art",
+    "skill": "Flame Spear",
+    "description": "This Ash of War grants an armament the Flame Art affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 19,
+    "name": "Ash of War: Carian Sovereignty",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_carian_sovereignty_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Magic",
+    "skill": "Carian Sovereignty",
+    "description": "This Ash of War grants an armament the Magic affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 20,
+    "name": "Ash of War: Shriek of Sorrow",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_shriek_of_sorrow_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Occult",
+    "skill": "Shriek of Sorrow",
+    "description": "This Ash of War grants an armament the Occult affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 21,
+    "name": "Ash of War: Ghostflame Call",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_ghostflame_call_1_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Cold",
+    "skill": "Ghostflame Call",
+    "description": "This Ash of War grants an armament the Cold affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 22,
+    "name": "Ash of War: The Poison Flower Blooms Twice",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_the_poison_flower_blooms_twice_1_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Poison",
+    "skill": "The Poison Flower Blooms Twice",
+    "description": "This Ash of War grants an armament the Poison affinity and the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 23,
+    "name": "Ash of War: Igon's Drake Hunt",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_igons_drake_hunt_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Igon's Drake Hunt",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 24,
+    "name": "Ash of War: Shield Strike",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_shield_strike_3_ashes_of_war_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Shield Strike",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill:",
+    "dlc": 1
+  },
+  {
+    "id": 25,
+    "name": "Ash of War: Storm Stomp",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_storm_stomp_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Storm Stomp",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Storm Stomp: One of the skills that channel the tempests of Stormveil. Stomp hard on the ground to kick up a momentary storm.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 26,
+    "name": "Ash of War: Repeating Thrust",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_repeating_thrust_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Repeating Thrust",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Repeating Thrust: Twist to build power, then unleash a flurry of thrusts.\" Usable on armaments capable of thrusting (colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 27,
+    "name": "Ash of War: Gravitas",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_gravitas_elden_ring_wiki_guide_200.png",
+    "affinity": "Magic",
+    "skill": "Gravitas",
+    "description": "This Ash of War grants an armament the Magic affinity and the following skill: \"Gravitas: Skill originating from the Alabaster Lords, who had skin of stone. Thrust the armament into the ground to create a gravity well. In addition to dealing damage, this attack pulls enemies in.\" Usable on melee armaments (small armaments and whips excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 28,
+    "name": "Ash of War: Stamp (Sweep)",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_stamp_sweep_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Stamp (Sweep)",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Stamp (Sweep): Brace armament and step into a low stance that prevents recoil from most enemy attacks. Follow up with a strong attack for a sweeping strike.\" Usable on swords, axes, and hammers (small and medium swords excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 29,
+    "name": "Ash of War: Unsheathe",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_unsheathe_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Unsheathe",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Unsheathe: Skill of swordsmen from the Land of Reeds. Sheathe blade, holding it at the hip in a composed stance. Follow up with a normal or strong attack to perform a swift slash attack.\" Usable on katana.",
+    "dlc": 0
+  },
+  {
+    "id": 30,
+    "name": "Ash of War: Mighty Shot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_mighty_shot_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Mighty Shot",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Mighty Shot: Archery skill performed from an oblique stance. Ready the bow, then pull the bowstring to its limit to enhance the power of the shot, penetrating the enemy's guard.\" Usable on light bows and longbows.",
+    "dlc": 0
+  },
+  {
+    "id": 31,
+    "name": "Ash of War: Golden Vow",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_golden_vow_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Golden Vow",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Golden Vow: Skill passed down from antiquity among the knights of the capital. Raise armament aloft and pledge to honor the Erdtree in battle, granting self and nearby allies increased attack power and defense.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 32,
+    "name": "Ash of War: Sacred Blade",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_sacred_blade_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Sacred Blade",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Sacred Blade: Grants armament's attacks holy essence and fires off a golden blade projectile. The armament retains its holy essence for a while.\" Usable on melee armaments (whips, fists, and claws excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 33,
+    "name": "Ash of War: Stamp (Upward Cut)",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_stamp_upward_cut_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Stamp (Upward Cut)",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Stamp (Upward Cut): Brace armament and step into a low stance that prevents recoil from most enemy attacks. Follow up with a strong attack for an upward strike.\" Usable on swords, axes, and hammers (small and medium swords excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 34,
+    "name": "Ash of War: Kick",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_kick_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Kick",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Kick: Push an enemy back with a high kick. Effective against enemies who are guarding, and can break a foe's stance. Sometimes a simple tool is the most effective.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 35,
+    "name": "Ash of War: Endure",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_endure_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Endure",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Endure: Assume an anchored stance to brace for incoming attacks, briefly boosting poise. Damage taken while using this skill is reduced.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 36,
+    "name": "Ash of War: War Cry",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_war_cry_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "War Cry",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"War Cry: Give a war cry to rally the spirit and increase attack power. While active, strong attacks change to charging attacks.\" Usable on melee armaments (daggers, thrusting swords, and whips excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 37,
+    "name": "Ash of War: Spinning Slash",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_spinning_slash_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Spinning Slash",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Spinning Slash: Skill favored by dexterous warriors. Slash foes as your body spins. Additional input allows for a follow-up attack.\" Usable on swords, axes, and polearms (colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 38,
+    "name": "Ash of War: Impaling Thrust",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_impaling_thrust_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Impaling Thrust",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Impaling Thrust: Skill that lets piercing armaments overcome enemy shields. Build power, then lunge forward for a strong thrust that pierces an enemy's guard.\" Usable on armaments capable of thrusting (colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 39,
+    "name": "Ash of War: Quickstep",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_quickstep_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Quickstep",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Quickstep: Skill prized by the crafty and fleet of foot. Perform a quickstep maneuver that allows for circling around lock-on targets.\" Usable on all melee armaments. sideways",
+    "dlc": 0
+  },
+  {
+    "id": 40,
+    "name": "Ash of War: Storm Blade",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_storm_blade_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Storm Blade",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Storm Blade: Lost skill of Stormveil. Surround armament with shearing storm winds that can be fired forward. Can be fired in rapid succession.\" Usable on swords (colossal weapons and twinblades excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 41,
+    "name": "Ash of War: Parry",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_parry_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Parry Skill",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Parry: Use this skill in time with a foe's melee attack to deflect it and break that foe's stance. This provides an opening to perform a critical hit.\" Usable on daggers, curved swords, thrusting swords, fists, claws, and small and medium shields.",
+    "dlc": 0
+  },
+  {
+    "id": 42,
+    "name": "Ash of War: No Skill",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_no_skill_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "No Skill",
+    "description": "This Ash of War grants no affinity to an armament and replaces any skill present with the following: \"No Skill: This armament has no skill. If the armament in the other hand has a skill, that skill will be used instead.\" Usable on shields and torches.",
+    "dlc": 0
+  },
+  {
+    "id": 43,
+    "name": "Ash of War: Glintstone Pebble",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_glintstone_pebble_elden_ring_wiki_guide_200px.png",
+    "affinity": "Magic",
+    "skill": "Glintstone Pebble Skill",
+    "description": "This Ash of War grants an armament the Magic affinity and the following skill: \"Glintstone Pebble: Skill that employs the glintstone sorcery of the same name. Follow up with a strong attack to chain this skill into a lunging thrust, performed while the armament is still imbued with glintstone.\" Usable on swords as well as polearms capable of thrusting (colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 44,
+    "name": "Ash of War: Spinning Weapon",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_spinning_weapon_elden_ring_wiki_guide_200px.png",
+    "affinity": "Magic",
+    "skill": "Spinning Weapon",
+    "description": "This Ash of War grants an armament the Magic affinity and the following skill: \"Spinning Weapon: Defensive skill employed by Carian princesses. Lifts armament into mid-air, then makes it spin violently. Those it touches will suffer successive attacks.\" Usable on small and medium swords, axes, and hammers, as well as polearms and staves (great spears excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 45,
+    "name": "Ash of War: Wild Strikes",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_wild_strikes_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Wild Strikes",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Wild Strikes: Swing armament with wild abandon. Hold to continue swinging. Can be followed up with a normal or strong attack.\" Usable on axes and hammers as well as curved swords and greatswords (colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 46,
+    "name": "Ash of War: Storm Wall",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_storm_wall_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Storm Wall",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Storm Wall: Swing the shield to create a wall of storm winds in front of you, deflecting arrows and other such physical projectiles. Can also be used in the same way as a regular parry.\" Usable on small and medium shields.",
+    "dlc": 0
+  },
+  {
+    "id": 47,
+    "name": "Ash of War: Bloody Slash",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_bloody_slash_elden_ring_wiki_guide_200px.png",
+    "affinity": "Blood",
+    "skill": "Bloody Slash",
+    "description": "This Ash of War grants an armament the Blood affinity and the following skill: \"Bloody Slash: Blood Oath skill granted by the Lord of Blood. From a low stance, coat the blade in your own blood to unleash a rending blood slash in a wide arc.\" Usable on swords (colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 48,
+    "name": "Ash of War: Ground Slam",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_ground_slam_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Ground Slam",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Ground Slam: Jump up high into the air and crash down on the ground ahead. The resulting pratfall sends a powerful shockwave in all directions.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 49,
+    "name": "Ash of War: Spectral Lance",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_spectral_lance_elden_ring_wiki_guide_200px.png",
+    "affinity": "Occult",
+    "skill": "Spectral Lance",
+    "description": "This Ash of War grants an armament the Occult affinity and the following skill: \"Spectral Lance: Skill of the headless Mausoleum Knights. Hurl a phantasmic spear at foes.\" Usable on polearms (reapers not included).",
+    "dlc": 0
+  },
+  {
+    "id": 50,
+    "name": "Ash of War: Charge Forth",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_charge_forth_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Charge Forth",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Charge Forth: Quickly charge forward with the armament at the hip, carrying the momentum into a thrust. Hold to cover a greater distance.\" Usable on polearms capable of thrusting, heavy thrusting swords, and twinblades.",
+    "dlc": 0
+  },
+  {
+    "id": 51,
+    "name": "Ash of War: Square Off",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_square_off_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Square Off",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Square Off: This skill starts with the sword held level. Follow up with a normal attack to slash upwards through enemy's guard, or a strong attack to perform a running thrust.\" Usable on straight swords.",
+    "dlc": 0
+  },
+  {
+    "id": 52,
+    "name": "Ash of War: Sacred Order",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_sacred_order_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Sacred Order",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Sacred Order: Skill of the Golden Order fundamentalist knights. Perform a salute and grant the armament holy essence. Highly effective against Those Who Live in Death.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 53,
+    "name": "Ash of War: Lifesteal Fist",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_lifesteal_fist_elden_ring_wiki_guide_200px.png",
+    "affinity": "Occult",
+    "skill": "Lifesteal Fist",
+    "description": "This Ash of War grants an armament the Occult affinity and the following skill: \"Lifesteal Fist: Skill that demonstrates mastery of the art of controlling vital energies. A slow, controlled punch with an energy-infused fist that renders foes unconscious and steals their HP. Only effective against foes of human build.\" Usable on fists and claws.",
+    "dlc": 0
+  },
+  {
+    "id": 54,
+    "name": "Ash of War: Barrage",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_barrage_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Barrage",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Barrage: Archery skill using a bow held horizontally. Ready the bow, then fire off a rapid succession of shots faster than the eye can see.\" Usable on light bows.",
+    "dlc": 0
+  },
+  {
+    "id": 55,
+    "name": "Ash of War: Prayerful Strike",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_prayerful_strike_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Prayerful Strike",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Prayerful Strike: Raise armament aloft in prayer, then slam it into the ground. This inspired blow restores HP to the self and nearby allies if it successfully hits.\" Usable on axes and hammers.",
+    "dlc": 0
+  },
+  {
+    "id": 56,
+    "name": "Ash of War: Lightning Slash",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_lightning_slash_elden_ring_wiki_guide_200px.png",
+    "affinity": "Lightning",
+    "skill": "Lightning Slash",
+    "description": "This Ash of War grants an armament the Lightning affinity and the following skill: \"Lightning Slash: Call down a bolt of lightning into armament, then swing it down to create an explosive shock. The armament retains the lightning enchantment for a while.\" Usable on swords, axes, and hammers.",
+    "dlc": 0
+  },
+  {
+    "id": 57,
+    "name": "Ash of War: Giant Hunt",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_giant_hunt_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Giant Hunt",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Giant Hunt: Skill developed for confronting gigantic foes. Step forward from a low stance, carrying the momentum into a sudden upward thrust.\" Usable on large and colossal weapons capable of thrusting, spears, and twinblades.",
+    "dlc": 0
+  },
+  {
+    "id": 58,
+    "name": "Ash of War: Sword Dance",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_sword_dance_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Sword Dance",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Sword Dance: Quickly close in to perform a series of spinning upward slashes. Follow up with an additional input to finish with a downward slash.\" Usable on swords, axes, and polearms capable of slashing (colossal weapons and great spears excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 59,
+    "name": "Ash of War: Vow of the Indomitable",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_vow_of_the_indomitable_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Vow of the Indomitable",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Vow of the Indomitable: Skill of the ancient warriors of the Erdtree. Hold shield aloft to imbue yourself with golden power, granting momentary invincibility.\" Usable on all shields.",
+    "dlc": 0
+  },
+  {
+    "id": 60,
+    "name": "Ash of War: Beast's Roar",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_beasts_roar_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Beast's Roar",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Beast's Roar: Unleash a beastly roar, rending the air as a forward-traveling projectile.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 61,
+    "name": "Ash of War: Carian Grandeur",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_carian_grandeur_elden_ring_wiki_guide_200px.png",
+    "affinity": "Magic",
+    "skill": "Carian Grandeur",
+    "description": "This Ash of War grants an armament the Magic affinity and the following skill: \"Carian Grandeur: Carian royal prestige embodied in a skill. Transform blade into a magical greatsword and swing it down. Can be charged to increase its power by up to two levels.\" Usable on swords (colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 62,
+    "name": "Ash of War: Loretta's Slash",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_lorettas_slash_elden_ring_wiki_guide_200px.png",
+    "affinity": "Magic",
+    "skill": "Loretta's Slash",
+    "description": "This Ash of War grants an armament the Magic affinity and the following skill: \"Loretta's Slash: Skill of Loretta the Royal Knight. Leap forward, imbuing the blade with glintstone, then descend, accelerating into a sweeping slash.\" Usable on polearms and twinblades.",
+    "dlc": 0
+  },
+  {
+    "id": 63,
+    "name": "Ash of War: Hoarfrost Stomp",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_hoarfrost_stomp_elden_ring_wiki_guide_200px.png",
+    "affinity": "Cold",
+    "skill": "Hoarfrost Stomp",
+    "description": "This Ash of War grants an armament the Cold affinity and the following skill: \"Hoarfrost Stomp: Stomp hard to spread a trail of freezing mist on the ground. The mist applies the frost status effect.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 64,
+    "name": "Ash of War: Thops's Barrier",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_thopss_barrier_elden_ring_wiki_guide_200px.png",
+    "affinity": "Magic",
+    "skill": "Thops's Barrier",
+    "description": "This is the page for the Ash of War: Thop's Barrier. Click here for the sorcery Thops's Barrier (Spell) This Ash of War grants an armament the Magic affinity and the following skill: \"Thops's Barrier: Erect a magical forcefield while swinging the shield to deflect sorceries and incantations. Can also be used in the same way as a regular parry.\" Usable on small and medium shields.",
+    "dlc": 0
+  },
+  {
+    "id": 65,
+    "name": "Ash of War: Chilling Mist",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_chilling_mist_elden_ring_wiki_guide_200px.png",
+    "affinity": "Cold",
+    "skill": "Chilling Mist",
+    "description": "This Ash of War grants an armament the Cold affinity and the following skill: \"Chilling Mist: Coat armament in frost, and then slash, spreading frigid mist forwards. The armament retains its frost for a while.\" Usable on melee armaments (whips, fists, and claws excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 66,
+    "name": "Ash of War: Lightning Ram",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_lightning_ram_elden_ring_wiki_guide_200px.png",
+    "affinity": "Lightning",
+    "skill": "Lightning Ram",
+    "description": "This Ash of War grants an armament the Lightning affinity and the following skill: \"Lightning Ram: Skill inspired by tumbling rams. Let out a bleat, then tumble forwards, clad in lightning. Tumbles can be repeated in rapid succession.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 67,
+    "name": "Ash of War: Lion's Claw",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_lions_claw_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Lion's Claw",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Lion's Claw: Skill of the Redmanes, who fought alongside General Radahn. Somersault forwards, striking foes with armament.\" Usable on swords, axes, and hammers (small armaments and thrusting swords not included).",
+    "dlc": 0
+  },
+  {
+    "id": 68,
+    "name": "Ash of War: Flaming Strike",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_flaming_strike_elden_ring_wiki_guide_200px.png",
+    "affinity": "Fire",
+    "skill": "Flaming Strike",
+    "description": "This Ash of War grants an armament the Fire affinity and the following skill: \"Flaming Strike: Skill that emits flame in a wide frontward arc. Follow up with a strong attack to perform a lunging, sweeping strike. This will also coat the armament in fire.\" Usable on melee armaments (colossal weapons and whips excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 69,
+    "name": "Ash of War: Determination",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_determination_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Determination",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Determination: A knightly skill. Hold the flat of the armament to your face and pledge your resolve, powering up your next attack.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 70,
+    "name": "Lost Ashes of War",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lost_ashes_of_war_elden_ring_wiki_guide_200px.png",
+    "affinity": "None",
+    "skill": "Used to duplicate Ashes of War",
+    "description": "Empty ashes of war, devoid of any memories of battle. Unable to apply any kind of affinity in their current state, but can be used by Smithing Master Hewg of the Roundtable Hold to recreate other ashes. Thus does the copy pass into becoming the genuine article.",
+    "dlc": 0
+  },
+  {
+    "id": 71,
+    "name": "Ash of War: Glintblade Phalanx",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_glintblade_phalanx_elden_ring_wiki_guide_200px.png",
+    "affinity": "Magic",
+    "skill": "Glintblade Phalanx",
+    "description": "This Ash of War grants an armament the Magic affinity and the following skill: \"Glintblade Phalanx: Skill used by the enchanted knights who served the Carian royal family. Form an arch of magic glintblades overhead, which will attack foes automatically. Follow up with a strong attack to chain this skill into a lunging thrust.\" Usable on swords as well as polearms capable of thrusting (colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 72,
+    "name": "Ash of War: Poison Moth Flight",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_poison_moth_flight_elden_ring_wiki_guide_200px.png",
+    "affinity": "Poison",
+    "skill": "Poison Moth Flight",
+    "description": "This Ash of War grants an armament the Poison affinity and the following skill: \"Poison Moth Flight: Slash with a poison-infused blade. If the follow-up strike lands on a poisoned foe, it will deal significant damage.\" Usable on small and medium swords (twinblades excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 73,
+    "name": "Ash of War: Poisonous Mist",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_poisonous_mist_elden_ring_wiki_guide_200px.png",
+    "affinity": "Poison",
+    "skill": "Poisonous Mist",
+    "description": "This Ash of War grants an armament the Poison affinity and the following skill: \"Poisonous Mist: Bathe armament in poison, and then slash, spreading toxic mist forwards. The armament retains its poison for a while.\" Usable on melee armaments (whips, fists, and claws excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 74,
+    "name": "Ash of War: Sacred Ring of Light",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_sacred_ring_of_light_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Sacred Ring of Light",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Sacred Ring of Light: Skill used by the commanders of the Cleanrot Knights. Gather a sacred ring of light in the armament, and then fire it forwards. Can be fired in rapid succession.\" Usable on polearms (great spears excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 75,
+    "name": "Ash of War: Eruption",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_eruption_elden_ring_wiki_guide_200px.png",
+    "affinity": "Fire",
+    "skill": "Eruption",
+    "description": "This Ash of War grants an armament the Fire affinity and the following skill: \"Eruption: Skill of the knights who serve at Volcano Manor. Slam armament into the ground, spawning roiling lava which spouts up upon release.\" Usable on large and colossal swords, axes, and hammers.",
+    "dlc": 0
+  },
+  {
+    "id": 76,
+    "name": "Ash of War: Assassin's Gambit",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_assassins_gambit_elden_ring_wiki_guide_200px.png",
+    "affinity": "Occult",
+    "skill": "Assassin's Gambit",
+    "description": "This Ash of War grants an armament the Occult affinity and the following skill: \"Assassin's Gambit: Skill that masks the user's presence at the cost of a self-inflicted wound. Grants near-invisibility and silences footsteps.\" Usable on small and medium straight swords and thrusting swords.",
+    "dlc": 0
+  },
+  {
+    "id": 77,
+    "name": "Ash of War: Seppuku",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_seppuku_elden_ring_wiki_guide_200px.png",
+    "affinity": "Blood",
+    "skill": "Seppuku",
+    "description": "This Ash of War grants an armament the Blood and the following skill: \"Seppuku: A forbidden technique used by swordsmen from the Land of Reeds. Plunge the blade into your stomach to stain it with blood. Increases attack power and improves ability to inflict blood loss.\" Usable on swords as well as polearms capable of thrusting (small and colossal weapons not included).",
+    "dlc": 0
+  },
+  {
+    "id": 78,
+    "name": "Ash of War: Black Flame Tornado",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_black_flame_tornado_elden_ring_wiki_guide_200px.png",
+    "affinity": "Flame Art",
+    "skill": "Black Flame Tornado",
+    "description": "This Ash of War grants an armament the Flame affinity and the following skill: \"Black Flame Tornado: Spin armament overhead and then plunge it into the ground to summon a raging vortex of black flames. Hold to create an initial flame tornado while spinning the armament.\" Usable on polearms and twinblades.",
+    "dlc": 0
+  },
+  {
+    "id": 79,
+    "name": "Ash of War: Hoarah Loux's Earthshaker",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_hoarah_louxs_earthshaker_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Hoarah Loux's Earthshaker",
+    "description": "This Ash of War grants an armament the Heavy and the following skill: \"Hoarah Loux's Earthshaker: Slam both hands onto the ground to violently shake the earth and unleash a shockwave. Follow up with an additional input to slam the ground again.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 80,
+    "name": "Ash of War: Enchanted Shot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_enchanted_shot_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Enchanted Shot",
+    "description": "This ash of war grants no affinity to an armament, but imparts the following skill: \"Enchanted Shot: Archery skill that enlivens the arrow with spiritual essence. The resulting shot will fly faster than regular shots and change its trajectory to follow the target.\" Usable on light bows and longbows.",
+    "dlc": 0
+  },
+  {
+    "id": 81,
+    "name": "Ash of War: Barricade Shield",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_barricade_shield_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Barricade Shield",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Barricade Shield: Skill made famous by Sir Neidhardt. Focus your energy into the shield, temporarily hardening it to deflect greater blows.\" Usable on all shields.",
+    "dlc": 0
+  },
+  {
+    "id": 82,
+    "name": "Ash of War: Golden Land",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_golden_land_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Golden Land",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Golden Land: Thrust armament into the ground, then gather strength to unleash a blast of sacred energy that coalesces into golden darts. Follow up with a strong attack to swing the armament in a sweeping strike.\" Usable on greataxes, warhammers, and colossal weapons.",
+    "dlc": 0
+  },
+  {
+    "id": 83,
+    "name": "Ash of War: Carian Retaliation",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_carian_retaliation_elden_ring_wiki_guide_200px.png",
+    "affinity": "Magic",
+    "skill": "Carian Retaliation",
+    "description": "This Ash of War grants an armament the Magic affinity and the following skill: \"Carian Retaliation: Swing the shield to dispel incoming sorceries and incantations, transforming the magic into retaliatory glintblades. Can also be used in the same way as a regular parry.\" Usable on small and medium shields.",
+    "dlc": 0
+  },
+  {
+    "id": 84,
+    "name": "Ash of War: Waves of Darkness",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_waves_of_darkness_elden_ring_wiki_guide_200px.png",
+    "affinity": "Magic",
+    "skill": "Waves of Darkness",
+    "description": "This Ash of War grants an armament the Magic affinity and the following skill: \"Waves of Darkness: Plunge armament into the ground to release three waves of darkness. Follow up with a strong attack to swing the armament in a sweeping strike.\" Usable on greataxes, warhammers, and colossal weapons.",
+    "dlc": 0
+  },
+  {
+    "id": 85,
+    "name": "Ash of War: Ice Spear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_ice_spear_elden_ring_wiki_guide_200px.png",
+    "affinity": "Cold",
+    "skill": "Ice Spear",
+    "description": "This Ash of War grants an armament the Cold affinity and the following skill: \"Ice Spear: Skill of the warriors who served Lunar Princess Ranni. Spin armament to release cold magic, then channel it into a piercing spear of ice.\" Usable on polearms capable of thrusting and twinblades.",
+    "dlc": 0
+  },
+  {
+    "id": 86,
+    "name": "Ash of War: Double Slash",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_double_slash_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Double Slash",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Double Slash: Skill of superior swordsmen. Perform a crossing slash attack from a low stance. Repeated inputs allow for up to two follow-up attacks.\" Usable on swords and polearms capable of slashing (colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 87,
+    "name": "Ash of War: Vacuum Slice",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_vacuum_slice_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Vacuum Slice",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Vacuum Slice: Lost skill of ancient heroes. Hold the armament aloft to surround it with a shearing vacuum, then launch it forwards as a blade-like projectile.\" Usable on swords and axes (colossal axes excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 88,
+    "name": "Ash of War: Stormcaller",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_stormcaller_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Stormcaller",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Stormcaller: One of the skills that channel the tempests of Stormveil. Spin armament to create surrounding storm winds. Repeated inputs allow for up to two follow-up attacks.\" Usable on swords capable of slashing, axes, hammers, and polearms (small and colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 89,
+    "name": "Ash of War: Piercing Fang",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_piercing_fang_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Piercing Fang",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Piercing Fang: Skill used by Yura, the Bloody Finger Hunter. Starting with the blade held horizontally, make a powerful thrust that cannot be blocked.\" Usable on medium and large armaments capable of thrusting.",
+    "dlc": 0
+  },
+  {
+    "id": 90,
+    "name": "Ash of War: Blood Tax",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_blood_tax_elden_ring_wiki_guide_200px.png",
+    "affinity": "Blood",
+    "skill": "Blood Tax",
+    "description": "This Ash of War grants an armament the Blood affinity and the following skill: \"Blood Tax: Blood Oath skill granted by the Lord of Blood. Twist to build power, then unleash a flurry of thrusts that rob the target of both their blood and their HP.\" Usable on armaments capable of thrusting (colossal weapons excepted). every",
+    "dlc": 0
+  },
+  {
+    "id": 91,
+    "name": "Ash of War: Spinning Strikes",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_spinning_strikes_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Spinning Strikes",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Spinning Strikes: Polearm skill that performs continuous spinning attacks. Hold to continue the attack. Can be followed up with a normal or strong attack. Nullifies projectiles such as arrows while spinning.\" Usable on polearms (great spears excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 92,
+    "name": "Ash of War: Prelate's Charge",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_prelates_charge_elden_ring_wiki_guide_200px.png",
+    "affinity": "Flame",
+    "skill": "Prelate's Charge",
+    "description": "This Ash of War grants an armament the Flame affinity and the following skill: \"Prelate's Charge: Slam armament into the ground to create a surge of flames, then charge in. Hold to continue the charge.\" Usable on large and colossal axes and hammers.",
+    "dlc": 0
+  },
+  {
+    "id": 93,
+    "name": "Ash of War: Storm Assault",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_storm_assault_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Storm Assault",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Storm Assault: One of the skills that channel the tempests of Stormveil. Leap forward through surrounding storm winds and thrust armament downward. The attack will produce more storm winds at the point of impact.\" Usable on polearms capable of thrusting, heavy thrusting swords, and twinblades.",
+    "dlc": 0
+  },
+  {
+    "id": 94,
+    "name": "Ash of War: Earthshaker",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_earthshaker_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Earthshaker",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Earthshaker: Thrust armament into the ground, then gather strength to unleash an earth-shaking shockwave. Follow up with a strong attack to swing the armament in a sweeping strike.\" Usable on greataxes, warhammers, and colossal weapons.",
+    "dlc": 0
+  },
+  {
+    "id": 95,
+    "name": "Ash of War: Thunderbolt",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_thunderbolt_elden_ring_wiki_guide_200px.png",
+    "affinity": "Lightning",
+    "skill": "Thunderbolt",
+    "description": "This Ash of War grants an armament the Lightning affinity and the following skill: \"Thunderbolt: Skill used by the capital's ancient dragon cult. Raise armament aloft to call down a bolt of lightning. Can be fired in rapid succession.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 96,
+    "name": "Ash of War: Carian Greatsword",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_carian_greatsword_elden_ring_wiki_guide_200px.png",
+    "affinity": "Magic",
+    "skill": "Carian Greatsword (Skill)",
+    "description": "This Ash of War grants an armament the Magic affinity and the following skill: \"Carian Greatsword: Carian royal prestige embodied in a skill. Transform blade into a magical greatsword and swing it down. Can be charged to increase its power.\" Usable on swords (colossal weapons excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 97,
+    "name": "Ash of War: Royal Knight's Resolve",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_royal_knights_resolve_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Royal Knight's Resolve",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Royal Knight's Resolve: Skill of the knights who once served the Elden Lord. Hold the flat of the armament to your face and pledge your resolve, greatly powering up your next attack.\" Usable on all melee armaments. \"Patch 1.03 - Fixed a bug with the Ash of War, Determination and Royal Knight's Resolve, where the damage buff will also apply to other weapons without that skill.\" \"Patch 1.06 : Fixed a bug which caused the effect to disappear after using the Parry skill with a Dagger.",
+    "dlc": 0
+  },
+  {
+    "id": 98,
+    "name": "Ash of War: Blood Blade",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_blood_blade_elden_ring_wiki_guide_200px.png",
+    "affinity": "Blood",
+    "skill": "Blood Blade",
+    "description": "This Ash of War grants an armament the Blood affinity and the following skill: \"Blood Blade: Wound self to coat the armament with blood, then unleash an airborne blood blade that causes hemorrhaging. Can be fired in rapid succession.\" Usable on small and medium swords.",
+    "dlc": 0
+  },
+  {
+    "id": 99,
+    "name": "Ash of War: Phantom Slash",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_phantom_slash_elden_ring_wiki_guide_200px.png",
+    "affinity": "Quality",
+    "skill": "Phantom Slash",
+    "description": "This Ash of War grants an armament the Quality affinity and the following skill: \"Phantom Slash: Skill inspired by the fond remembrances of the Night's Cavalry. Creates an apparition of the knights' former instructor who guides a joint lunging upward swing. Additional input allows for a follow-up attack.\" Usable on polearms and twinblades (great spears excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 100,
+    "name": "Ash of War: Shield Bash",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_shield_bash_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Shield Bash",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Shield Bash: Brace behind shield before using bodyweight to ram foes while maintaining guarding stance. Weaker enemies will be shoved backwards, and can even be staggered.\" Usable on all shields.",
+    "dlc": 0
+  },
+  {
+    "id": 101,
+    "name": "Ash of War: Golden Parry",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_golden_parry_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Golden Parry",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Golden Parry: Perform an Erdtree incantation and swing the shield to deflect enemy attacks and break their stance. Effective even at a slight distance.\" Usable on small and medium shields.",
+    "dlc": 0
+  },
+  {
+    "id": 102,
+    "name": "Ash of War: Shield Crash",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_shield_crash_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Shield Crash",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Shield Crash: Two-hand the shield and charge forwards while maintaining guard. Weaker enemies will be shoved backwards and can even be staggered. Hold to extend the duration of the charge forwards.\" Usable on all shields.",
+    "dlc": 0
+  },
+  {
+    "id": 103,
+    "name": "Ash of War: Through and Through",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_through_and_through_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Through and Through",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Through and Through: Powerful archery skill using a greatbow held in an oblique stance. Ready the greatbow, then twist the bowstring to fire a mighty greatarrow that can penetrate through enemies.\" Usable on greatbows.",
+    "dlc": 0
+  },
+  {
+    "id": 104,
+    "name": "Ash of War: Sky Shot",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_sky_shot_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Sky Shot",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Sky Shot: Archery skill performed from a low stance. Ready the bow, then fire an arrow high up into the air, arcing so as to strike the enemy from above when it comes down.\" Usable on bows and longbows.",
+    "dlc": 0
+  },
+  {
+    "id": 105,
+    "name": "Ash of War: Rain of Arrows",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_rain_of_arrows_elden_ring_wiki_guide_200px.png",
+    "affinity": "Standard",
+    "skill": "Rain of Arrows",
+    "description": "This Ash of War grants no affinity to an armament, but imparts the following skill: \"Rain of Arrows: Archery skill performed from a low stance. Ready the bow, then fire a burst of arrows into the sky to shower the enemy with projectiles.\" Usable on all bows.",
+    "dlc": 0
+  },
+  {
+    "id": 106,
+    "name": "Ash of War: Flame of the Redmanes",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_flame_of_the_redmanes_elden_ring_wiki_guide_200px.png",
+    "affinity": "Fire",
+    "skill": "Flame of the Redmanes",
+    "description": "This Ash of War grants an armament the Fire affinity and the following skill: \"Flame of the Redmanes: Skill of the Redmanes, who fought alongside General Radahn. Produce a powerful burst of flames in a wide frontward arc.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 107,
+    "name": "Ash of War: Golden Slam",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_golden_slam_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Golden Slam",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Golden Slam: Skill of the avatars who protect Minor Erdtrees. Jump up high into the air and crash down on the ground ahead. The resulting pratfall sends golden shockwaves in all directions.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 108,
+    "name": "Ash of War: Shared Order",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_shared_order_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Shared Order",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Shared Order: Skill of the Golden Order fundamentalist knights. Grant the armament and those of nearby allies holy essence. Highly effective against Those Who Live in Death.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 109,
+    "name": "Ash of War: Cragblade",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_cragblade_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Cragblade",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Cragblade: Skill that manipulates gravity. Bury the armament in the ground, pulling rocks from the earth to reinforce it. Increases attack power and makes it easier to break enemy stance.\" Usable on melee armaments (whips excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 110,
+    "name": "Ash of War: Barbaric Roar",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_barbaric_roar_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Barbaric Roar",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Barbaric Roar: Let loose a bestial roar to rally the spirit and increase attack power. While active, strong attacks change to savage combo attacks.\" Usable on melee armaments (daggers, thrusting swords, and whips excepted).",
+    "dlc": 0
+  },
+  {
+    "id": 111,
+    "name": "Ash of War: Troll's Roar",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_troll's_roar_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Troll's Roar",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Troll's Roar: Look into the distance and let out an intense roar, generating a powerful shockwave that blows back surrounding foes. Follow up with a strong attack to slam the armament down.\" Usable on large and colossal swords, axes, and hammers.",
+    "dlc": 0
+  },
+  {
+    "id": 112,
+    "name": "Ash of War: Braggart's Roar",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_braggart's_roar_elden_ring_wiki_guide_200px.png",
+    "affinity": "Heavy",
+    "skill": "Braggart's Roar",
+    "description": "This Ash of War grants an armament the Heavy affinity and the following skill: \"Braggart's Roar: Declare your presence with a boastful roar. Raises attack power, defense, and stamina recovery speed.\" Usable on melee armaments (daggers, thrusting swords, and whips excepted ).",
+    "dlc": 0
+  },
+  {
+    "id": 113,
+    "name": "Ash of War: Holy Ground",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_holy_ground_elden_ring_wiki_guide_200px.png",
+    "affinity": "Sacred",
+    "skill": "Holy Ground",
+    "description": "This Ash of War grants an armament the Sacred affinity and the following skill: \"Holy Ground: Raise shield to create an Erdtree-consecrated area that continuously restores HP and boosts defense for self and allies inside it.\" Usable on all shields.",
+    "dlc": 0
+  },
+  {
+    "id": 114,
+    "name": "Ash of War: Bloodhound's Step",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_bloodhounds_step_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Bloodhound's Step",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Bloodhound's Step: Skill that allows the user to become temporarily invisible while dodging at high speed. Moves faster and travels farther than a regular quickstep. This skill can be used to circle around lock-on targets.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 115,
+    "name": "Ash of War: Raptor of the Mists",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_raptor_of_the_mists_elden_ring_wiki_guide_200px.png",
+    "affinity": "Keen",
+    "skill": "Raptor of the Mists",
+    "description": "This Ash of War grants an armament the Keen affinity and the following skill: \"Raptor of the Mists: Duck into a low stance, momentarily vanishing. If an enemy attack connects, avian wings will allow for a quick escape into the air.\" Usable on all melee armaments.",
+    "dlc": 0
+  },
+  {
+    "id": 116,
+    "name": "Ash of War: White Shadow's Lure",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ash_of_war_white_shadows_lure_elden_ring_wiki_guide_200px.png",
+    "affinity": "Occult",
+    "skill": "White Shadow's Lure",
+    "description": "This Ash of War grants an armament the Occult affinity and the following skill: \"White Shadow's Lure: Hold armament in a brief, silent prayer to create a white shadow. The apparition lures in foes of human build who are not in combat, drawing their aggression. Effective on demi-humans even if they are already in a combat state.\" Usable on all melee armaments.",
+    "dlc": 0
+  }
+]

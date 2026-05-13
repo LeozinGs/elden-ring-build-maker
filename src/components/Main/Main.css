@@ -1,0 +1,564 @@
+.main {
+  width: 100%;
+  min-height: 100vh;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: repeat(4, minmax(250px, 2fr));
+  grid-template-areas:
+    "one five"
+    "two six"
+    "three seven"
+    "four four"
+    "eight nine";
+  gap: 1em;
+  padding: 1em;
+  overflow: auto;
+  background-color: var(--general-background);
+}
+
+.one {
+  grid-area: one;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+  padding: 3em 1em 1em 1em;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.one::before {
+  content: "Weapons";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  color: #be9752;
+  font-size: 18px;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.two {
+  grid-area: two;
+  background-color: var(--general-background);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1em;
+  padding: 3em 1em 1em 1em;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+  align-items: center;
+}
+
+.two::before {
+  content: "Armor";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  color: #be9752;
+  font-size: 18px;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.three {
+  grid-area: three;
+  background-color: var(--general-background);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1em;
+  padding: 3em 1em 1em 1em;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+  align-items: center;
+}
+
+.three::before {
+  content: "Talismans";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  color: #be9752;
+  font-size: 18px;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.four {
+  background-color: var(--general-background);
+  grid-area: four;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1em;
+  padding: 3em 1em 1em 1em;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.four::before {
+  content: "Consumables";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  color: #be9752;
+  font-size: 18px;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.five {
+  grid-area: five;
+  background-color: var(--general-background);
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  gap: 1em;
+  padding: 3em 1em 1em 1em;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+  align-items: center;
+  justify-items: center;
+}
+
+.five::before {
+  content: "Crystal Tears";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  color: #be9752;
+  font-size: 18px;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.six {
+  grid-area: six;
+  background-color: var(--general-background);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1em;
+  padding: 3em 1em 1em 1em;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+  justify-items: center;
+  align-items: center;
+}
+
+.six::before {
+  content: "Sorceries / Incantations";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  color: #be9752;
+  font-size: 18px;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.seven {
+  grid-area: seven;
+  background-color: var(--general-background);
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  padding: 3em 1em 1em 1em;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+  justify-items: center;
+  align-items: center;
+}
+
+.seven::before {
+  content: "Spirit Ashes";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  color: #be9752;
+  font-size: 18px;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.eight {
+  grid-area: eight;
+  background-color: var(--general-background);
+  display: flex;
+  padding: 3em 1em 1em 1em;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+  height: 500px;
+}
+
+.eight::before {
+  content: "Description";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  color: #be9752;
+  font-size: 18px;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.description-input {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  color: aliceblue;
+  border: none;
+  resize: none;
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.5;
+  outline: none;
+}
+
+.nine {
+  grid-area: nine;
+  background-color: var(--general-background);
+  display: flex;
+  flex-direction: column;
+  padding: 3em 1em 1em 1em;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+  justify-content: center;
+}
+
+.nine::before {
+  content: "Attributes";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  color: #be9752;
+  font-size: 18px;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.attributes-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.8em;
+  width: 100%;
+}
+
+.attribute-field {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid #392e1b;
+  border-radius: 5px;
+  padding: 0.5em 1em;
+  background-color: #111312;
+  color: aliceblue;
+}
+
+.attribute-field label {
+  color: #be9752;
+  font-weight: 500;
+}
+
+.attribute-input {
+  width: 50px;
+  background: transparent;
+  border: none;
+  color: aliceblue;
+  text-align: right;
+  font-size: 16px;
+  font-weight: bold;
+  outline: none;
+}
+
+.attribute-input::-webkit-outer-spin-button,
+.attribute-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.attribute-input {
+  appearance: textfield;
+  -moz-appearance: textfield;
+}
+
+.weaponCard {
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-sizing: border-box;
+  color: aliceblue;
+  background-color: #111312;
+}
+
+.armorcard {
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  width: 100%;
+  height: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-sizing: border-box;
+  color: aliceblue;
+  background-color: #111312;
+}
+
+.talismanscard {
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  width: 100%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-sizing: border-box;
+  color: aliceblue;
+  background-color: #111312;
+}
+
+.consumablescard {
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-sizing: border-box;
+  color: aliceblue;
+  background-color: #111312;
+}
+
+.crystalscard {
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  aspect-ratio: 1 / 1;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-sizing: border-box;
+  color: aliceblue;
+  background-color: #111312;
+}
+
+.magicscard {
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  height: 60%;
+  width: 130%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-sizing: border-box;
+  color: aliceblue;
+  background-color: #111312;
+}
+
+.spiritscard {
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  height: 50%;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-sizing: border-box;
+  color: aliceblue;
+  background-color: #111312;
+}
+
+.weaponSlotWrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.weaponSlotWrapper .weaponCard {
+  width: 100%;
+  height: 100%;
+}
+
+.ashSlot {
+  position: absolute;
+  right: 6px;
+  bottom: 6px;
+  width: 32%;
+  height: 32%;
+}
+
+.ashCard {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #be9752;
+  border-radius: 5px;
+  background-color: #161616;
+}
+
+/* Telas de Computadores Pequenos e Tablets (Até 1024px) */
+@media (max-width: 1024px) {
+  .main {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+      "one"
+      "two"
+      "three"
+      "four"
+      "five"
+      "six"
+      "seven"
+      "eight"
+      "nine";
+    gap: 1.5em;
+    padding: 1em;
+  }
+
+  .one {
+    grid-template-columns: repeat(
+      3,
+      1fr
+    ); /* Mantém fixo 3 colunas (2 linhas de 3) */
+  }
+
+  .two,
+  .three {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .four {
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .five {
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .six {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .seven {
+    grid-template-columns: 1fr;
+  }
+
+  .eight {
+    height: 300px;
+  }
+
+  .armorcard,
+  .talismanscard {
+    height: 100%;
+    aspect-ratio: 1 / 1;
+  }
+
+  .magicscard {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 1 / 1;
+  }
+
+  .spiritscard {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    aspect-ratio: 1 / 1;
+  }
+}
+
+/* Celulares (Até 768px) */
+@media (max-width: 768px) {
+  .one {
+    grid-template-columns: repeat(
+      3,
+      1fr
+    ); /* Mantém fixo 3 colunas (2 linhas de 3) */
+    gap: 0.5em; /* Diminui ligeiramente o espaçamento para caber melhor na tela */
+  }
+
+  .two,
+  .three,
+  .six {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .four {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Celulares pequenos (Até 480px) */
+@media (max-width: 480px) {
+  .main {
+    padding: 0.5em;
+    gap: 1em;
+    border-width: 2px;
+  }
+
+  .one,
+  .two,
+  .three,
+  .four,
+  .five,
+  .six,
+  .seven,
+  .eight,
+  .nine {
+    border-width: 2px;
+    padding: 2.5em 0.5em 0.5em 0.5em;
+  }
+
+  .one {
+    grid-template-columns: repeat(
+      3,
+      1fr
+    ); /* Mantém fixo 3 colunas (2 linhas de 3) */
+    gap: 0.4em;
+  }
+
+  .one::before,
+  .two::before,
+  .three::before,
+  .four::before,
+  .five::before,
+  .six::before,
+  .seven::before,
+  .eight::before,
+  .nine::before {
+    font-size: 15px;
+    top: 0.6em;
+    left: 0.6em;
+  }
+
+  .four {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

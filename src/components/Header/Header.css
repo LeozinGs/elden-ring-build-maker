@@ -1,0 +1,164 @@
+.header {
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  padding: 1em;
+  width: 100%;
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+
+  background-color: var(--general-background);
+  margin-bottom: 10px;
+}
+
+.leftSide {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  flex: 1;
+  min-width: 0;
+}
+
+#avatar {
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.buildInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+  flex: 1;
+  min-width: 0;
+}
+
+.buildNameInput {
+  color: aliceblue;
+  background-color: transparent;
+  border: 4px solid #392e1b;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 400;
+  outline: none;
+  height: 3rem;
+  width: 100%;
+  padding: 0.5em;
+  box-sizing: border-box;
+}
+
+.buildNameInput:focus {
+  border: 4px solid #be9752;
+}
+
+.buildLevel {
+  color: aliceblue;
+}
+
+.exportButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5em;
+
+  height: 40px;
+  padding: 0 18px;
+
+  color: #be9752;
+  background-color: transparent;
+
+  border: 4px solid #be9752;
+  border-radius: 5px;
+
+  transition: 100ms ease-in-out;
+  cursor: pointer;
+
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.exportButton:hover {
+  background-color: var(--general-background-hover);
+}
+
+.exportButton:active {
+  transform: scale(0.98);
+}
+
+@media print {
+  .hide-on-print {
+    display: none !important;
+  }
+}
+
+/* Tablet (Até 768px) */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column; /* Empilha os blocos verticalmente no mobile */
+    align-items: stretch; /* Faz os elementos internos usarem toda a largura */
+    gap: 1em;
+    border-width: 2px;
+  }
+
+  .leftSide {
+    width: 100%;
+  }
+
+  #avatar {
+    width: 70px;
+    height: 70px;
+    border-width: 2px;
+  }
+
+  .buildNameInput {
+    font-size: 16px;
+    border-width: 2px;
+    height: 2.8rem;
+  }
+
+  .buildNameInput:focus {
+    border-width: 2px;
+  }
+
+  .exportButton {
+    width: 100%; /* Botão ocupa a largura total para facilitar o clique */
+    height: 44px; /* Aumentado para melhor ergonomia ao toque (touch target) */
+    padding: 0;
+    font-size: 15px;
+    border-width: 2px;
+  }
+}
+
+/* Celulares pequenos (Até 480px) */
+@media (max-width: 480px) {
+  .header {
+    padding: 0.8em;
+    gap: 0.8em;
+  }
+
+  #avatar {
+    width: 60px;
+    height: 60px;
+  }
+
+  .buildNameInput {
+    font-size: 14px;
+    padding: 0.4em;
+    height: 2.5rem;
+  }
+
+  .buildLevel {
+    font-size: 14px;
+  }
+
+  .exportButton {
+    height: 40px;
+    font-size: 14px;
+  }
+}

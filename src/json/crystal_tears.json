@@ -1,0 +1,335 @@
+[
+  {
+    "id": 0,
+    "name": "Viridian Hidden Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/viridian_hidden_tear_crystal_tear_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Eliminates all stamina consumption in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages, where the scattered sap of the Scadutree pools deep within the furnace golems. Can be mixed in the Flask of Wondrous Physick. The resulting concoction eliminates all stamina consumption. However, this effect is only brief and will quickly expire.",
+    "dlc": 1
+  },
+  {
+    "id": 1,
+    "name": "Crimsonburst Dried Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crimsonburst_dried_tear_crystal_tear_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Steadily restores HP of nearby allies for a time in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages, where the scattered sap of the Scadutree pools deep within the furnace golems. Can be mixed in the Flask of Wondrous Physick. The resulting concoction gradually restores the HP of one's allies over time. Has no effect on the imbiber.",
+    "dlc": 1
+  },
+  {
+    "id": 2,
+    "name": "Crimson-Sapping Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crimson-sapping_cracked_tear_crystal_tear_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Grants attacks HP-restoring effect in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages, where the scattered sap of the Scadutree pools deep within the furnace golems. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily restores HP upon landing attacks.",
+    "dlc": 1
+  },
+  {
+    "id": 3,
+    "name": "Cerulean-Sapping Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/cerulean-sapping_cracked_tear_crystal_tear_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Grants attacks FP-restoring effect in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages, where the scattered sap of the Scadutree pools deep within the furnace golems. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily restores FP upon landing attacks.",
+    "dlc": 1
+  },
+  {
+    "id": 4,
+    "name": "Oil-Soaked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/oil-soaked_tear_crystal_tear_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Coats nearby enemies with oil in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages, where the scattered sap of the Scadutree pools deep within the furnace golems. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily causes the imbiber to break out in an oily sweat, soaking nearby enemies in oil. Oil-soaked enemies are highly susceptible to fire damage.",
+    "dlc": 1
+  },
+  {
+    "id": 5,
+    "name": "Bloodsucking Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/bloodsucking_cracked_tear_crystal_tear_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Enhances attacks at the cost of HP in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages, where the scattered sap of the Scadutree pools deep within the furnace golems. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily increases attack power but drains HP over time.",
+    "dlc": 1
+  },
+  {
+    "id": 6,
+    "name": "Glovewort Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/glovewort_crystal_tear_crystal_tear_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Enhances attacks of spirits in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages, where the scattered sap of the Scadutree pools deep within the furnace golems. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily increases the attack power of spirits.",
+    "dlc": 1
+  },
+  {
+    "id": 7,
+    "name": "Deflecting Hardtear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/deflecting_hardtear_crystal_tear_elden_ring_shadow_of_the_erdtree_dlc_wiki_guide_200px.png",
+    "effect": "Enhances spontaneous guard in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages, where the scattered sap of the Scadutree pools deep within the furnace golems. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily enhances spontaneous guard. Damage negation and guard poise will be heightened in the moment immediately after assuming a guarding stance. Successfully executing a spontaneous guard will also strengthen guard counters.",
+    "dlc": 1
+  },
+  {
+    "id": 8,
+    "name": "Ruptured Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/ruptured_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Causes concoction to explode in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.Causes concoction to explode. A defective crystal tear which possesses absolutely no medicinal qualities. A lesson said to be learned the hard way for some; faith can be a volatile matter, after all.",
+    "dlc": 0
+  },
+  {
+    "id": 9,
+    "name": "Greenspill Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/greenspill_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts stamina in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily raises one's maximum stamina.",
+    "dlc": 0
+  },
+  {
+    "id": 10,
+    "name": "Cerulean Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/cerulean_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Restores half of total FP in mixed physick.",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction restores half of one's maximum FP.",
+    "dlc": 0
+  },
+  {
+    "id": 11,
+    "name": "Crimson Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crimson_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Restores half of total HP in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting concoction restores half of one's maximum HP.",
+    "dlc": 0
+  },
+  {
+    "id": 12,
+    "name": "Crimsonburst Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crimsonburst_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Steadily restores HP for a time in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction gradually restores one's HP over time.",
+    "dlc": 0
+  },
+  {
+    "id": 13,
+    "name": "Faith-knot Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/faith-knot_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts faith in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts one's faith.",
+    "dlc": 0
+  },
+  {
+    "id": 14,
+    "name": "Opaline Bubbletear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/opaline_bubbletear_elden_ring_wiki_guide_200px.png",
+    "effect": "Significantly negates damage in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. Provides significant damage negation. However, this effect only occurs once, and will expire after a certain duration.",
+    "dlc": 0
+  },
+  {
+    "id": 15,
+    "name": "Strength-knot Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/strength-knot_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts strength in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts one's strength.",
+    "dlc": 0
+  },
+  {
+    "id": 16,
+    "name": "Spiked Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/spiked_cracked_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Enhances charged attacks for a time in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction increases the power of charged attacks for a certain duration.",
+    "dlc": 0
+  },
+  {
+    "id": 17,
+    "name": "Dexterity-knot Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/dexterity-knot_crystal_tear2_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts dexterity in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily boosts one's dexterity.",
+    "dlc": 0
+  },
+  {
+    "id": 18,
+    "name": "Winged Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/winged_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily reduces equip load in mixed physick",
+    "FP cost": "Crystal Tears",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.Temporarily reduces equipment load.",
+    "dlc": 0
+  },
+  {
+    "id": 19,
+    "name": "Magic-Shrouding Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/magic-shrouding_cracked_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts magic attacks in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts the power of one's magic attacks.",
+    "dlc": 0
+  },
+  {
+    "id": 20,
+    "name": "Lightning-Shrouding Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/lightning-shrouding_cracked_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts lightning attacks in mixed physick",
+    "FP cost": "Crystal Tears",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts the power of one's lightning attacks.",
+    "dlc": 0
+  },
+  {
+    "id": 21,
+    "name": "Holy-Shrouding Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/holy-shrouding_cracked_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts holy attacks in mixed physick",
+    "FP cost": "Crystal Tears",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts the power of one's holy attacks.",
+    "dlc": 0
+  },
+  {
+    "id": 22,
+    "name": "Twiggy Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/twiggy_cracked_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Briefly stop rune loss on death in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting concoction prevents one's runes from being lost upon death. However, the effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 23,
+    "name": "Leaden Hardtear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/leaden_hardtear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts poise in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting conconction temporarily boosts one's poise.",
+    "dlc": 0
+  },
+  {
+    "id": 24,
+    "name": "Crimsonspill Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crimsonspill_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts max HP in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily raises one's maximum HP.",
+    "dlc": 0
+  },
+  {
+    "id": 25,
+    "name": "Greenburst Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/greenburst_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts stamina recovery speed in mixed physick.",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts stamina recovery speed.",
+    "dlc": 0
+  },
+  {
+    "id": 26,
+    "name": "Speckled Hardtear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/speckled_hardtear_elden_ring_wiki_guide_200px.png",
+    "effect": "Boosts resistance and heals status in mixed physick.",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily raises all resistances and heals all status ailments.",
+    "dlc": 0
+  },
+  {
+    "id": 27,
+    "name": "Flame-Shrouding Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/flame-shrouding_cracked_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts the power of one's fire attacks.",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts the power of one's fire attacks.",
+    "dlc": 0
+  },
+  {
+    "id": 28,
+    "name": "Crimson Bubbletear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crimson_bubbletear_elden_ring_wiki_guide_200px.png",
+    "effect": "Restores HP when near death in mixed physick.",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction automatically heals one's HP in the moment before death. However, this effect only occurs once, and will expire after a certain duration.",
+    "dlc": 0
+  },
+  {
+    "id": 29,
+    "name": "Crimsonwhorl Bubbletear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/crimsonwhorl_bubbletear_elden_ring_wiki_guide_200px.png",
+    "effect": "Converts damage received into HP in mixed physick.",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction converts incoming damage into recovered HP instead. However, physical damage cannot be converted. This effect is only brief and will quickly expire.",
+    "dlc": 0
+  },
+  {
+    "id": 30,
+    "name": "Thorny Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/thorny_cracked_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Makes consecutive attacks grow stronger in mixed physick.",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction makes consecutive attacks grow stronger the longer they continue. However, the effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 31,
+    "name": "CERULEAN HIDDEN TEAR",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/cerulean_hidden_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Eliminates all FP consumption in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction removes all FP consumption. However, this effect is only brief and will quickly expire.",
+    "dlc": 0
+  },
+  {
+    "id": 32,
+    "name": "Stonebarb Cracked Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/stonebarb_cracked_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Make attacks more likely to break enemy stances in a mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction make one's attacks more likely to break an enemy's stance. However, the effect lasts only for a short time.",
+    "dlc": 0
+  },
+  {
+    "id": 33,
+    "name": "Windy Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/windy_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Enhances dodge rolls for a time in mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting concoction increases the effectiveness of dodgerolls for a certain duration. However, damage taken is also increased during the concoction's effect.",
+    "dlc": 0
+  },
+  {
+    "id": 34,
+    "name": "Opaline Hardtear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/opaline_hardtear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts all damage negations in physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts all forms of damage negation.",
+    "dlc": 0
+  },
+  {
+    "id": 35,
+    "name": "INTELLIGENCE-KNOTCRYSTAL TEAR",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/intelligence-knot_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Temporarily boosts intelligence in mixed physick.",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. Can be mixed in the Flask of Wondrous Physick. The resulting concoction boosts one's intelligence for a certain duration.",
+    "dlc": 0
+  },
+  {
+    "id": 36,
+    "name": "Purifying Crystal Tear",
+    "image": "http://eldenring.wiki.fextralife.com/file/Elden-Ring/purifying_crystal_tear_elden_ring_wiki_guide_200px.png",
+    "effect": "Purifies the Lord of Blood's curse in a mixed physick",
+    "FP cost": "Crystal Tear",
+    "description": "A crystal tear formed slowly over the age where the Erdtree's bounty falls to the ground.Can be mixed in the Flask of Wonderous Physick.The resulting concoction purifies the curse from Mohg, Lord of Blood's terrifying rite of blood.",
+    "dlc": 0
+  }
+]

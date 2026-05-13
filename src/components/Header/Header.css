@@ -4,12 +4,10 @@
   padding: 1em;
   width: 100%;
   box-sizing: border-box;
-
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1em;
-
   background-color: var(--general-background);
   margin-bottom: 10px;
 }
@@ -17,9 +15,8 @@
 .leftSide {
   display: flex;
   align-items: center;
-  gap: 1em;
+  gap: 1.5em;
   flex: 1;
-  min-width: 0;
 }
 
 #avatar {
@@ -34,31 +31,35 @@
 .buildInfo {
   display: flex;
   flex-direction: column;
-  gap: 0.3em;
+  gap: 0.6em; /* Espaço entre Build Name e Discord Name */
   flex: 1;
-  min-width: 0;
 }
 
-.buildNameInput {
+.buildNameInput,
+.discordNameInput {
   color: aliceblue;
   background-color: transparent;
   border: 4px solid #392e1b;
   border-radius: 5px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 400;
   outline: none;
-  height: 3rem;
-  width: 100%;
-  padding: 0.5em;
+  height: 2.8rem;
+  width: 100%; /* Ambos ocuparão 100% da largura da buildInfo */
+  max-width: 400px; /* Limite opcional para não esticar demais em telas ultra-wide */
+  padding: 0 0.8em;
   box-sizing: border-box;
 }
 
-.buildNameInput:focus {
+.buildNameInput:focus,
+.discordNameInput:focus {
   border: 4px solid #be9752;
 }
 
 .buildLevel {
-  color: aliceblue;
+  color: #be9752;
+  font-weight: bold;
+  margin-top: 2px;
 }
 
 .exportButton {
@@ -66,19 +67,14 @@
   justify-content: center;
   align-items: center;
   gap: 0.5em;
-
   height: 40px;
   padding: 0 18px;
-
   color: #be9752;
   background-color: transparent;
-
   border: 4px solid #be9752;
   border-radius: 5px;
-
   transition: 100ms ease-in-out;
   cursor: pointer;
-
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -91,74 +87,21 @@
   transform: scale(0.98);
 }
 
-@media print {
-  .hide-on-print {
-    display: none !important;
-  }
-}
-
-/* Tablet (Até 768px) */
+/* Responsividade */
 @media (max-width: 768px) {
   .header {
-    flex-direction: column; /* Empilha os blocos verticalmente no mobile */
-    align-items: stretch; /* Faz os elementos internos usarem toda a largura */
-    gap: 1em;
-    border-width: 2px;
+    flex-direction: column;
+    align-items: stretch;
   }
 
-  .leftSide {
-    width: 100%;
-  }
-
-  #avatar {
-    width: 70px;
-    height: 70px;
-    border-width: 2px;
-  }
-
-  .buildNameInput {
+  .buildNameInput,
+  .discordNameInput {
+    max-width: 100%;
     font-size: 16px;
-    border-width: 2px;
-    height: 2.8rem;
-  }
-
-  .buildNameInput:focus {
-    border-width: 2px;
-  }
-
-  .exportButton {
-    width: 100%; /* Botão ocupa a largura total para facilitar o clique */
-    height: 44px; /* Aumentado para melhor ergonomia ao toque (touch target) */
-    padding: 0;
-    font-size: 15px;
-    border-width: 2px;
-  }
-}
-
-/* Celulares pequenos (Até 480px) */
-@media (max-width: 480px) {
-  .header {
-    padding: 0.8em;
-    gap: 0.8em;
   }
 
   #avatar {
-    width: 60px;
-    height: 60px;
-  }
-
-  .buildNameInput {
-    font-size: 14px;
-    padding: 0.4em;
-    height: 2.5rem;
-  }
-
-  .buildLevel {
-    font-size: 14px;
-  }
-
-  .exportButton {
-    height: 40px;
-    font-size: 14px;
+    width: 80px;
+    height: 80px;
   }
 }

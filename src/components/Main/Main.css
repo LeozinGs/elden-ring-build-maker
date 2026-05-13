@@ -196,15 +196,15 @@
 .eight {
   grid-area: eight;
   background-color: var(--general-background);
-  display: flex;
+  display: block; /* Mude de flex para block para melhor compatibilidade */
   padding: 3em 1em 1em 1em;
   border: 4px solid #392e1b;
   border-radius: 5px;
   box-sizing: border-box;
   position: relative;
   height: 500px;
+  overflow: hidden; /* Evita que o texto vaze para fora do border-radius no print */
 }
-
 .eight::before {
   content: "Description";
   position: absolute;
@@ -227,6 +227,11 @@
   font-size: 16px;
   line-height: 1.5;
   outline: none;
+  display: block;
+  white-space: pre-wrap; /* Preserva quebras de linha e espaços */
+  overflow-wrap: break-word; /* Força a quebra de palavras longas */
+  word-wrap: break-word;
+  word-break: break-word;
 }
 
 .nine {

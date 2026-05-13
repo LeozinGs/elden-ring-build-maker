@@ -52,11 +52,11 @@ const Button = ({ children, ...props }) => {
     });
   }
 
-  async function enviarParaDiscord() {
+  async function baixarImagem() {
     const elemento = document.querySelector("#root");
     if (!elemento) return;
 
-    // Captura os valores antes de processar o clone
+    // Captura os valores dos nomes
     const buildNameValue =
       document.querySelector(".buildNameInput")?.value || "BUILD SEM NOME";
     const discordNameValue =
@@ -68,6 +68,7 @@ const Button = ({ children, ...props }) => {
     if (botao) botao.style.visibility = "hidden";
 
     try {
+      // Usa o html2canvas global/existente
       const canvas = await html2canvas(elemento, {
         scale: 2,
         useCORS: true,
@@ -80,7 +81,6 @@ const Button = ({ children, ...props }) => {
           const elementoFundo = clonedDoc.querySelector("#root");
 
           if (elementoFundo) {
-            // Define o fundo escuro para a imagem toda
             elementoFundo.style.backgroundColor = "#04080a";
             elementoFundo.style.padding = "20px";
 
@@ -92,7 +92,7 @@ const Button = ({ children, ...props }) => {
               input.style.display = "none";
             });
 
-            // 2. Cria o cabeçalho estilizado da imagem
+            // 2. Cria o cabeçalho (Título e Autor)
             const headerContainer = clonedDoc.createElement("div");
             headerContainer.style.cssText = `
               text-align: center;
@@ -123,7 +123,7 @@ const Button = ({ children, ...props }) => {
             );
           }
 
-          // Trata textarea para quebra de linha no print
+          // Ajuste da descrição
           const textArea = clonedDoc.querySelector(".description-input");
           if (textArea) {
             const div = clonedDoc.createElement("div");
@@ -135,32 +135,13 @@ const Button = ({ children, ...props }) => {
         },
       });
 
-      // Envia o Blob para a sua própria API na Vercel
-      canvas.toBlob(async (blob) => {
-        if (!blob) return;
-
-        const formData = new FormData();
-        formData.append("file", blob, "build.png");
-        formData.append(
-          "payload_json",
-          JSON.stringify({
-            content: `🛡️ **Nova Build recebida de ${discordNameValue}!**`,
-          }),
-        );
-
-        const response = await fetch("/api/send-build", {
-          method: "POST",
-          body: formData,
-        });
-
-        if (response.ok) {
-          alert("Build enviada com sucesso para o Mural!");
-        } else {
-          alert("Houve um erro ao enviar. Verifique os logs da Vercel.");
-        }
-      }, "image/png");
+      // Download
+      const link = document.createElement("a");
+      link.download = `${buildNameValue.replace(/\s+/g, "-").toLowerCase()}-build.png`;
+      link.href = canvas.toDataURL("image/png");
+      link.click();
     } catch (error) {
-      console.error("Erro no processo:", error);
+      console.error("Erro:", error);
     } finally {
       if (botao) botao.style.visibility = "visible";
       await restoreConvertedImages(elemento);
@@ -168,7 +149,7 @@ const Button = ({ children, ...props }) => {
   }
 
   return (
-    <button id="hide_on_print" onClick={() => enviarParaDiscord()} {...props}>
+    <button id="hide_on_print" onClick={baixarImagem} {...props}>
       {children}
     </button>
   );

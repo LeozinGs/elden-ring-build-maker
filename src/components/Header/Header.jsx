@@ -39,8 +39,8 @@ const Header = ({ attributes }) => {
       </div>
 
       <Button className="exportButton hide-on-print">
-        <span className="material-symbols-outlined">upload</span>
-        Send to Discord
+        <span className="material-symbols-outlined">download</span>
+        Download image
       </Button>
     </header>
   );

@@ -278,6 +278,7 @@
 
 .attribute-input {
   width: 50px;
+  height: 40px;
   background: transparent;
   border: none;
   color: aliceblue;

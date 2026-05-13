@@ -89,7 +89,7 @@ const Button = ({ children, ...props }) => {
     }
 
     const link = document.createElement("a");
-    link.download = "meu-print-perfeito.png";
+    link.download = "print-build-perfeita.png";
     link.href = canvas.toDataURL("image/png");
     link.click();
   }
